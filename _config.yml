@@ -1,7 +1,7 @@
 ---
 destination : _site
 lsi         : false
-highlighter : pygments
+highlighter : rouge
 permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
