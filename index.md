@@ -38,17 +38,17 @@ Mechanical Engineering
 <div class="row" markdown="0">
 <div class="col-md-6">
 <dl class="dl-horizontal dl-horizontal-info">
-<dt><i class="fa fa-envelope-o fa-fw"></i> Email:</dt>
+<dt>Email:</dt>
 <dd><script type="text/javascript" src="/assets/js/obfuscate-email.js"></script></dd>
-<dt><i class="fa fa-phone fa-fw"></i> Office:</dt>
+<dt>Office:</dt>
 <dd>715-232-1133</dd>
-<dt><i class="fa fa-twitter fa-fw"></i> Twitter:</dt>
+<dt>Twitter:</dt>
 <dd><a href="https://twitter.com/devinberg">@devinberg</a></dd>
-<dt><i class="fa fa-github fa-fw"></i> GitHub:</dt>
+<dt>GitHub:</dt>
 <dd><a href="https://github.com/devinberg">devinberg</a></dd>
-<dt><i class="fa fa-linkedin fa-fw"></i> LinkedIn:</dt>
+<dt>LinkedIn:</dt>
 <dd><a href="https://www.linkedin.com/in/devinberg">devinberg</a></dd>
-<dt><i class="fa fa-building fa-fw"></i> Address:</dt>
+<dt>Address:</dt>
 <dd><address>
 <a href="https://www.google.com/maps/place/807+3rd+St+E,+Menomonie,+WI+54751/@44.8751687,-91.9296328,17z/data=!3m1!4b1!4m5!3m4!1s0x87f87b9f18bc8899:0x5e2fc7b0928c10f!8m2!3d44.875168!4d-91.927444">330 Fryklund Hall</a><br/>
 Menomonie, WI 54751

@@ -1,6 +1,6 @@
 <aside>
-    <p> <i class="fa fa-user fa-fw"></i><a class="author" href="/">&nbsp; Devin R. Berg</a></p>
-    <p> <i class="fa fa-calendar fa-fw"></i>&nbsp;
+    <p> <a class="author" href="/">&nbsp; Devin R. Berg</a></p>
+    <p> &nbsp;
     <time datetime="{{ page.date }}"
     property="dc:created">{{ page.date | date_to_string }}</time>
     </p>
@@ -20,7 +20,7 @@
   <br />
 -->
 
-    <p> <i class="fa fa-tags fa-fw"></i>&nbsp; tags:
+    <p> &nbsp; tags:
     {% for tag in page.tags %}
     <!-- http://schema.org/BlogPosting/keywords -->
     <a rel="og:tag" class="tag"

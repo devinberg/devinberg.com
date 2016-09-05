@@ -16,5 +16,5 @@
       link += (key.charAt(ltr))
     }
   }
-  document.write("<a alt='email' href='mailto:"+link+"'><span class='showtooltip' title='email me'><i class='fa fa-envelope'></i></span></a>")
+  document.write("<a alt='email' href='mailto:"+link+"'><span class='showtooltip' title='email me'></span></a>")
 }

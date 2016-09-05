@@ -7,7 +7,7 @@ keywords: Blog, Research, Academia
 
 This is [Devin Berg](/)'s personal and research notebook. A complete archive of [past](/notebook/archive/) posts are available via links at the top of the page.
 
-[<!--{% icon fa-rss %}-->{:title="Atom feed of recent posts" .right}][feed]&nbsp;
+[{:title="Atom feed of recent posts" .right}][feed]&nbsp;
 A [feed][] of the most recent posts is also available.
 
 [feed]: /notebook/atom.xml
