@@ -1,0 +1,21 @@
+---
+destination : _site
+lsi         : false
+highlighter : pygments
+permalink   : pretty
+markdown    : kramdown
+include     : [".htaccess"]
+exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
+url         : "http://www.devinberg.com"
+
+author:
+    name : Devin R. Berg
+    email : devinberg@gmail.com
+    github : devinberg
+    twitter : devinberg
+
+kramdown:
+    parse_block_html: true
+
+gems:
+  - jekyll-seo-tag

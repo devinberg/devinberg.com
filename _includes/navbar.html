@@ -1,0 +1,46 @@
+<!-- Navbar  ================================================== -->
+
+<nav class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/info/"><i class="fa fa-info-circle"></i></a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav">
+
+                <li {% if page.url == "/" %} class="active" {% endif %} >
+                <a href="/">Home</a></li>
+                <li {% if page.url == "/cv/" %} class="active"{% endif %} >
+                <a href="/cv/">CV</a></li>
+				<li {% if page.url == "/publications/" %} class="active" {% endif %} >
+                <a href="/publications/">Publications</a></li>
+                <li {% if page.url == "/calendar/" %} class="active" {% endif %} >
+                <a href="/calendar/">Calendar</a></li>
+                <li {% if page.url == "/notebook/" %} class="active" {% endif %} >
+                <a href="/notebook/">Notebook</a></li>
+				<li {% if page.url == "/in-the-news/" %} class="active"{% endif %} >
+                <a href="/in-the-news/">In the news</a></li>
+
+            </ul>
+
+            <!-- Search site using Google's index -->
+            <form class="navbar-form navbar-right" role="search" method="get" action="http://google.com/search">
+                <div class="form-group">
+                    <input type="hidden" name="q" value="site:devinberg.com" />
+                    <input type="text" class="form-control search-query" name="q" placeholder="Search"/>
+                </div>
+                <button class="btn btn-mini" type="submit"><i class="fa fa-search"></i></button>
+            </form>
+
+        </div><!--/.nav-collapse -->
+    </div> <!-- /container -->
+</nav>
