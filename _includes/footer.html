@@ -5,24 +5,27 @@
     <div class="row">
         <div class="col-md-3 col-xs-4 socialicons" style="font-size:20px" about="{{site.url}}">
             <p>
-                <a href="mailto:bergdev@uwstout.edu">bergdev@uwstout.edu</a>
+                <a href="mailto:bergdev@uwstout.edu"><i src="/assets/img/1473136381_mail.png" width="10px"/></a>
 
                 <a href="https://twitter.com/{{site.author.twitter}}"
                    onclick="recordOutboundLink(this, 'Outbound Links', 'Twitter');return false;">
                    <span class="showtooltip" title="follow me on twitter (reading, discussing)">
                    </span>
+				   <i src="/assets/img/1473136274_twitter_circle_gray.png" width="10px"/>
                 </a>
 
                 <a href="https://github.com/{{site.author.github}}"
                    onclick="recordOutboundLink(this, 'Outbound Links', 'Github');return false;">
                    <span class="showtooltip" title="follow me on Github (code, research)">
                    </span>
+				   <i src="/assets/img/1473136266_github_circle_gray.png" width="10px"/>
                 </a>
 
-                <a rel="foaf:weblog" type="application/atom+xml" href="/notebook/"
-                  class="showtooltip"
-                  title="RSS feeds for my blog-style entries. See the feed on my lab notebook ({{site.url}}/blog/atom.xml) to follow all entries instead."
-                  onclick="recordOutboundLink(this, 'Outbound Links', 'RSS');return false;">
+                <a href="http://notebook.devinberg.com"
+                   onclick="recordOutboundLink(this, 'Outbound Links', 'RSS');return false;">
+                   <span class="showtooltip" title="read the blog">
+                   </span>
+				  <i src="/assets/img/1473136262_rss_circle_gray.png" width="10px"/>
                 </a>
             </p>
         </div>
