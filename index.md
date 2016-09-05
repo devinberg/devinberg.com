@@ -25,6 +25,7 @@ A brief list of my primary activities includes:
 <img class='inset right img-circle' src='/assets/img/Berg_4x6.JPG' title='Devin R. Berg' alt='Devin R. Berg' width='180px' />  
 
 Devin R. Berg 
+
 **Associate Professor**  
 Mechanical Engineering  
 [Engineering & Technology Department](http://www.uwstout.edu/et)  
@@ -67,15 +68,3 @@ Menomonie, WI 54751
 
 [**Impacts of Engineering**](https://impactsofengineering.wordpress.com/) (ETECH-100)
 
-
-
-## Blog
-
-I keep a [notebook](/notebook/) on personal and professional topics. Here are some recent posts:
-
-<table class="table table-striped">
-{% for post in site.categories.blog limit:5 %}
-<tr><td>{{ post.date | date: "%-d %b %Y" }}</td>
-<td><a href="{{ post.url }}">{{ post.title }}</a></td></tr>
-{% endfor %}
-</table>
