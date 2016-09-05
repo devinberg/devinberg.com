@@ -39,7 +39,7 @@ Mechanical Engineering
 <div class="col-md-6">
 <dl class="dl-horizontal dl-horizontal-info">
 <dt>Email:</dt>
-<dd><script type="text/javascript" src="/assets/js/obfuscate-email.js"></script></dd>
+<dd><a href="mailto:bergdev@uwstout.edu">bergdev@uwstout.edu</a></dd>
 <dt>Office:</dt>
 <dd>715-232-1133</dd>
 <dt>Twitter:</dt>
