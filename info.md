@@ -9,10 +9,9 @@ Site Features & Credits
 -----------------------
 
 * Static site generation using [Jekyll][]
-* Source code hosting on [GitHub][] at my [GitHub repository](https://github.com/devinberg/devinberg.com)
+* Source code hosting on [GitHub][] at my [GitHub repository](https://github.com/devinberg/devinberg.com) and served using GitHub Pages
 * CSS from [Bootstrap](http://getbootstrap.com/)
 * [Lumen theme](http://bootswatch.com/lumen/) from [Bootswatch](http://bootswatch.com/)
-* Scalable CSS icons from [FontAwesome](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/)
 * Markdown parsing into HTML by [kramdown](http://kramdown.gettalong.org)
 * Version control of source files using [git](https://git-scm.com)
 
