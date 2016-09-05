@@ -6,7 +6,7 @@ permalink   : pretty
 markdown    : kramdown
 include     : [".htaccess"]
 exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
-url         : "http://notebook.devinberg.com/devinberg.com/"
+url         : "http://www.devinberg.com/"
 
 author:
     name : Devin R. Berg
