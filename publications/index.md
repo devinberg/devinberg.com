@@ -3,10 +3,44 @@ layout: page
 title: Publications
 section: Publications
 ---
-
 Below are some of the papers and other artifacts I have published. Additional information about my papers and citations can be found here:
 
-<h1>Scholarly Output (Publications, Presentations, Posters, Datasets, and Code)</h1>
+<h3>Links</h3>
+
+<h4>Profiles</h4>
+<ul>
+<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page. Also contains a link to my publications most with links to a PDF.</li>
+<li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
+<li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
+<li><a href="https://uwstout.academia.edu/DevinBerg">Academia.edu</a>: For a more academically oriented page.</li>   
+<li><a href="https://www.researchgate.net/profile/Devin_Berg/">ResearchGate</a>: For a more research oriented page.</li>   
+<li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
+</ul>  
+
+<h4>Scholarly Output</h4>
+<ul>
+<li><a href="http://figshare.com/authors/Devin%20Berg/412062">Figshare</a>: A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.</li>
+<li><a href="https://speakerdeck.com/devinberg">Speaker Deck</a>: My presentation slides in a format that is easier to view online. Overlap with Figshare.</li>  
+<li><a href="https://osf.io/4cdtj/">Open Science Framework</a>: For project working documents and research workflow.</li>   
+<li><a href="http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT">Youtube</a>: Videos from my research or teaching activities.</li>
+<li><a href="https://github.com/devinberg">GitHub</a>: A repository for various code projects. Some personal some professional.</li>   
+<li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for releases of various software type items which are assigned a DOI.</li>
+</ul>
+
+<h4>Metrics</h4>
+<ul>
+<li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
+<li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
+<li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
+</ul>
+
+<h4>Other</h4>
+<ul>
+<li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
+</ul>
+
+
+<h4>Scholarly Output (Publications, Presentations, Posters, Datasets, and Code)</h4>
 <ol reversed="">
  	<li>Berg, D.R. and Lee, T., 2016. Incorporation of liberal education into the engineering curriculum at a polytechnic. In <i>Proceedings of the 2016 ASEE Annual Conference and Exposition,</i> New Orleans, LA. Accepted. [Paper: <i><a href="http://dx.doi.org/10.18260/p.25664">doi</a>, <a href="https://peer.asee.org/incorporation-of-liberal-education-into-the-engineering-curriculum-at-a-polytechnic.pdf">download</a></i>] [Presentation: <i><a href="https://dx.doi.org/10.6084/m9.figshare.3464132.v1">doi</a>, <a href="https://speakerdeck.com/devinberg/incorporation-of-liberal-education-into-the-engineering-curriculum-at-a-polytechnic">view</a></i>]</li>
  	<li>Berg, D.R., Lee, T., and Buchanan, E., 2016. A methodology for exploring, documenting, and improving humanitarian service learning in the university. <i>Journal of Humanitarian Engineering.</i> Vol. 4, No. 1. [Paper: <i><a href="https://dx.doi.org/10.6084/m9.figshare.2758129.v1">doi</a>, <a href="http://www.ewb.org.au/jhe/index.php/jhe/article/download/47/46">download</a></i>]</li>
