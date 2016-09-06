@@ -10,6 +10,7 @@ Site Features & Credits
 
 * Static site generation using [Jekyll][]
 * Source code hosting on [GitHub][] at my [GitHub repository](https://github.com/devinberg/devinberg.com)
+* The site is served from [GitHub Pages](https://pages.github.com/)
 * CSS from [Bootstrap](http://getbootstrap.com/)
 * [Lumen theme](http://bootswatch.com/lumen/) from [Bootswatch](http://bootswatch.com/)
 * Markdown parsing into HTML by [kramdown](http://kramdown.gettalong.org)
