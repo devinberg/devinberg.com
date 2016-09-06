@@ -24,8 +24,7 @@ A brief list of my primary activities includes:
 
 <img class='inset right img-circle' src='/assets/img/Berg_4x6.JPG' title='Devin R. Berg' alt='Devin R. Berg' width='180px' />  
 
-Devin R. Berg 
-
+Devin R. Berg  
 **Associate Professor**  
 Mechanical Engineering  
 [Engineering & Technology Department](http://www.uwstout.edu/et)  
