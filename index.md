@@ -68,3 +68,4 @@ Menomonie, WI 54751
 
 [**Impacts of Engineering**](https://impactsofengineering.wordpress.com/) (ETECH-100)
 
+<p style="padding-bottom: 3cm;">&nbsp;</p>
