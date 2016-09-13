@@ -22,7 +22,7 @@ A brief list of my primary activities includes:
 </div> <!-- END col-md-6-->
 <div class="col-md-4" style="font-size:20px; text-align:center;">
 
-<img class='inset right img-circle' src='/assets/img/Berg_4x6.JPG' title='Devin R. Berg' alt='Devin R. Berg' width='180px' />  
+<img class='inset right' src='/assets/img/Berg_4x6.JPG' title='Devin R. Berg' alt='Devin R. Berg' width='180px' />  
 
 Devin R. Berg  
 **Associate Professor**  
