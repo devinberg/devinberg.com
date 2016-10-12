@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+12 October 2016: "Robotics research: Federal grant helps students from around U.S. gain valuable experience" <a href="http://www.uwstout.edu/news/articles/Federal-grant-helps-students-from-around-US-gain-valuable-experience.cfm" target="_blank">UW-Stout Press Release</a>
+
 21 July 2016: "Promotions, tenure for faculty approved by Board of Regents" <a href="http://chippewa.com/dunnconnect/variety/education/promotions-tenure-for-faculty-approved-by-board-of-regents/article_6ab8afb4-3774-5e73-a436-b190e4e8509e.html" target="_blank">The Dunn County News</a>
 
 22 April 2016: "Feingold touts importance of engineering programs at UW-Stout" <a href="http://www.leadertelegram.com/News/Front-Page/2016/04/22/Feingold-touts-importance-of-engineering-programs.html" target="_blank">Leader Telegram</a>
