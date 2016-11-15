@@ -7,7 +7,7 @@ section: Home
 <div class="row">
 <div class="col-md-6">
 
-I am an associate professor at the University of Wisconson-Stout where I am also the program director of the [BS Mechanical Engineering program](http://www.uwstout.edu/programs/bsme/). My main activities include conducting research in medical devices, robotics, and engineering education as well as teaching a freshmen level engineering course discussing the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer.
+I am an associate professor at the University of Wisconsin-Stout where I am also the program director of the [BS Mechanical Engineering program](http://www.uwstout.edu/programs/bsme/). My main activities include conducting research in medical devices, robotics, and engineering education as well as teaching a freshmen level engineering course discussing the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer.
 
 A brief list of my primary activities includes:
 
