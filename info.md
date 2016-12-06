@@ -16,6 +16,8 @@ Site Features & Credits
 * Markdown parsing into HTML by [kramdown](http://kramdown.gettalong.org)
 * Version control of source files using [git](https://git-scm.com)
 
+The style for this site is borrowed from [Kyle Niemeyer's site](http://kyleniemeyer.com/) with some slight modifications to the look.
+
 
 License
 -------
