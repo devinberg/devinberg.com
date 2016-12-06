@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+5 December 2016: "The Center for Open Science Releases a Comprehensive, Open Source Preprints Solution" <a href="https://cos.io/pr/2016-12-05/" target="_blank">Center for Open Science Press Release</a>
+
 10 November 2016: "UW-Stout Discovery Center recognizes 2016 top faculty collaborators" <a href="http://chippewa.com/dunnconnect/news/local/uw-stout-discovery-center-recognizes-top-faculty-collaborators/article_8e387fe1-7f6c-5495-ab56-0a33dd8f3962.html" target="_blank">The Dunn County News</a>
 
 27 October 2016: "Robotics research: Federal grant helps students from around U.S. gain valuable experience" <a href="http://chippewa.com/dunnconnect/news/local/robotics-research/article_75c25df9-c1fb-588d-976b-d3883d04a1cd.html" target="_blank">The Dunn County News</a>
