@@ -9,7 +9,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h4>Profiles</h4>
 <ul>
-<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page. Also contains a link to my publications most with links to a PDF.</li>
+<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
 <li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
 <li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
 <li><a href="https://uwstout.academia.edu/DevinBerg">Academia.edu</a>: For a more academically oriented page.</li>   
