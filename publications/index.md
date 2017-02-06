@@ -6,7 +6,7 @@ section: Publications
 Below are some of the papers and other artifacts I have published. Additional information about my papers and citations can be found here:
 
 <h3>Links</h3>
-<table>
+<table cellspacing="25">
 <tr>
 <td>
 <h4>Profiles</h4>
@@ -35,7 +35,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 </tr>
 
 <tr>
-<td>
+<td valign="top">
 <h4>Metrics</h4>
 <ul>
 <li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
@@ -44,7 +44,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 </ul>
 </td>
 
-<td>
+<td valign="top">
 <h4>Other</h4>
 <ul>
 <li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
