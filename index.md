@@ -42,6 +42,8 @@ Mechanical Engineering
 <dd><a href="mailto:bergdev@uwstout.edu">bergdev@uwstout.edu</a></dd>
 <dt>Office:</dt>
 <dd>715-232-1133</dd>
+<dt>Faculty Profile:</dt>
+<dd><a href="http://www.uwstout.edu/faculty/bergdev/">bergdev</a></dd>
 <dt>Twitter:</dt>
 <dd><a href="https://twitter.com/devinberg">@devinberg</a></dd>
 <dt>GitHub:</dt>
@@ -57,7 +59,7 @@ Menomonie, WI 54751
 </div> <!-- END col-md-6-->
 <div class="col-md-4" style="font-size:20px; text-align:center;">
 
-<a href="http://www.uwstout.edu/faculty/bergdev/"><img class="inset right" src="/assets/img/stout_S.png" alt="UW-Stout S Logo" width="200"/></a>
+<a href="http://www.openengr.com"><img class="inset right" src="/assets/img/openengr_logo.png" alt="openENGR Logo" width="200"/></a>
 
 </div> <!-- END col-md-4-->
 </div> <!-- END row-->
@@ -66,6 +68,7 @@ Menomonie, WI 54751
 ## Current Teaching
 
 [**Impacts of Engineering**](https://impactsofengineering.wordpress.com/) (ETECH-100)
+
 [**Mechanical Design**](http://bulletin.uwstout.edu/preview_course_nopop.php?catoid=6&coid=8785) (ET-332)
 
 <p style="padding-bottom: 3cm;">&nbsp;</p>
