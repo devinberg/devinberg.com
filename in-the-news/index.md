@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+8 March 2017: "Social science at the equator: Student, professor track impact of Ecuador engineering project" <a href="http://www.uwstout.edu/news/articles/Student-professor-track-impact-of-Ecuador-engineering-project.cfm" target="_blank">UW-Stout Press Release</a>
+
 13 February 2017: "Pioneer Matthew Wigdahl's fifth graders use Design Thinking and 3D printing to help a fellow student." <a href="https://ultimaker.com/en/blog/36720-swivel-spoon-modification" target="_blank">Ultimaker Blog</a>
 
 5 December 2016: "The Center for Open Science Releases a Comprehensive, Open Source Preprints Solution" <a href="https://cos.io/about/news/center-open-science-releases-comprehensive-open-source-preprints-solution/" target="_blank">Center for Open Science Press Release</a>
