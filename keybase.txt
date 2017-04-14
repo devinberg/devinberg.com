@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/devinberg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.devinberg.com
+  * I am devinberg (https://keybase.io/devinberg) on keybase.
+  * I have a public key with fingerprint 2337 B051 84C7 0E89 34D6  5342 7988 D3AB B08E E9AB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101a94cfb6a7b60613bbaa569b5017d9db58ea560958ce9470debe65620075422990a",
+            "fingerprint": "2337b05184c70e8934d653427988d3abb08ee9ab",
+            "host": "keybase.io",
+            "key_id": "7988d3abb08ee9ab",
+            "kid": "0101a94cfb6a7b60613bbaa569b5017d9db58ea560958ce9470debe65620075422990a",
+            "uid": "0474c045125748e3c170fcac7f02c019",
+            "username": "devinberg"
+        },
+        "service": {
+            "hostname": "www.devinberg.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1492202818,
+    "expire_in": 157680000,
+    "prev": "c8bc90d0cd5ca724ae6894f31e72736303583444a4d95b3b1893b0e2e1a66227",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.68
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSBRRGMd3M8MWBdEXhSIahJDUzsycM5dNuhhlD120JC2Tdc6Zs+t4
+2Vlnx11NfNBMEKNM8gJZD0IhSNJDQmFJVgpeAkmKEtEIX8KHMskQXzpj1lOPnZfD
+953f9/8u53udEOPyuIsO9vHnk2t73FOjvTWuohWUU89hU6/jvPVcBd28aKVOw7av
+wtA5Lwd4wGsqJH4saTKWgMSLGGsaklSMAC/rqo6RQpkNVKQQqkIZ6BRTCUkCADKC
+gqCqQOMyOL8RDFArZBlBm8kKoihjgHgFEhlQRRWhLiERCrKqKLqoYQwUSlUNs8Ay
+M+xEsOKwFqZZhsl8zPBtlvcP/j/XXfNbDsqQAIh4AclQoSLhZeAnGpH9QCCAVx0w
+TK2gVkUZrdOIEcTUCnANGRxzRwxCnck6rWwh0Wg06y+WRcwqphCyTNskZiV7LrPt
+kNeJtutCmzjFvi0hHzaCOhsmC4hQK2yYQc7LM5LYhqPMQ1UQgKDwSgZHa0OGRX2G
+QyBZUgA7ThoaYZJEwUQFOiA6IposQI1Kigr9Ik9lQRYlEYhIESGEGtRVhEXMs1/C
+gAqU1yRJEGTOaa06aHJelsnWAkwybASCml1jUa7h5YvL211uj2tH7DZnyVyenYl/
+Vq8hMc7VOnq29IbrYnX85MNHJUv9EwVSp7+xI6X03bn7nVc/xU6Lc6klq337uxaP
+PJua8C0UjFS0mivZEv/8uK847UvT25rmkZODsyXujPXa4eSN60/GyMK9FHfmbMeJ
+wpX4Obu8f6C9InVw11rtgXVxY8jTnjf7dOzjUFVr0mgcfhAN3aYtp++i4si+vN3D
++XZv2c22lu+ZOenXuodOecf7J4ymrvkm+K0oV5258DjOjEn6WVA6j+Da+w+Nk7mL
+9JjnTXr36qWi8fHmPVeWXnUNBNL8KdkFdanlMw2WET16a3S57fOZwrzplkPDLSl5
+y19/6Anlyxdi88cKe8CdtazJw3t/AdsTPio=
+=AVFU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/devinberg
+
+==================================================================
