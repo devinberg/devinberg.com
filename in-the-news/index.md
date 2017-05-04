@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+3 May 2017: "Professor earns national mechanics engineering honor" <a href="http://www.uwstout.edu/news/articles/Professor-earns-national-mechanics-engineering-honor.cfm" target="_blank">UW-Stout Press Release</a>
+
 19 March 2017: "Combined sciences paid off on Ecuador trip: Engineers, anthropologists track impact of Ecuador water project" <a href="http://www.leadertelegram.com/Features/On-Campus/2017/03/19/Combined-sciences.html" target="_blank">Leader Telegram</a>
 
 13 February 2017: "Pioneer Matthew Wigdahl's fifth graders use Design Thinking and 3D printing to help a fellow student." <a href="https://ultimaker.com/en/blog/36720-swivel-spoon-modification" target="_blank">Ultimaker Blog</a>
