@@ -53,6 +53,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 </tr>
 </table>
 
+<h3>Journal Articles</h3>
 <ol reversed="">
 	
 
