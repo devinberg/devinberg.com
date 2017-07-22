@@ -55,7 +55,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	
+	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Under Review. [DOI: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.1">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.12037.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 
  	<li>Dekarske, J. and Berg, D.R., 2017. Path oriented powered wheelchair navigation assistance. <i>The Journal of Open Engineering.</i> Under Review. [Preprint: <i><a href="https://www.pubpub.org/pub/path-oriented-powered-wheelchair-navigation-assistance">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
