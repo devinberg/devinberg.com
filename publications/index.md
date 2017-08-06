@@ -111,7 +111,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Invited Talks</h3>
 <ol reversed="">
-	<li>Aspuru-Guzik, A., Schmid, S., Berg, D.R., Thakur, N., and Strasser, C., 2017. Panel discussion: Perspectives from arXiv, bioRxiv, engrXiv and funders of research. <i>American Chemical Society National Meeting,</i> Washington, DC.
+	<li>Aspuru-Guzik, A., Schmid, S., Berg, D.R., Thakur, N., and Strasser, C., 2017. Panel discussion: Perspectives from arXiv, bioRxiv, engrXiv and funders of research. <i>American Chemical Society National Meeting,</i> Washington, DC.</li>
 	
 	<li>Berg, D.R., 2017. Open engineering. <i>UC-Davis Mechanical and Aerospace Engineering Seminar,</i> Davis, CA. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.5036606.v1">doi</a></i>] [Video: <i><a href="https://www.youtube.com/watch?v=bdhGRLcPohs">view</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.5036606" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
