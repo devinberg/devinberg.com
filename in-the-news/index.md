@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+23 August 2017: "Intense debate about chemistry preprint servers at #ACSDC" <a href="https://storify.com/cenmag/heated-discussions-on-preprinters-and-chemrxiv" target="_blank">Chemical and Engineering News <i>via Storify</i></a>
+
 7 May 2017: "Professor garners national honor" <a href="http://www.leadertelegram.com/Features/On-Campus/2017/05/07/Professor-garners-national-honor.html" target="_blank">Leader Telegram</a>
 
 19 March 2017: "Combined sciences paid off on Ecuador trip: Engineers, anthropologists track impact of Ecuador water project" <a href="http://www.leadertelegram.com/Features/On-Campus/2017/03/19/Combined-sciences.html" target="_blank">Leader Telegram</a>
