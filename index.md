@@ -69,6 +69,5 @@ Menomonie, WI 54751
 
 [**Impacts of Engineering**](https://impactsofengineering.wordpress.com/) (ETECH-100)
 
-[**Mechanical Design**](http://bulletin.uwstout.edu/preview_course_nopop.php?catoid=6&coid=8785) (ET-332)
 
 <p style="padding-bottom: 3cm;">&nbsp;</p>
