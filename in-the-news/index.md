@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+21 September 2017: "Diversity Awards recognize work of university faculty, staff" <a href="http://www.uwstout.edu/news/articles/Diversity-Awards-recognize-work-of-university-faculty-staff.cfm" target="_blank">UW-Stout Press Release</a>
+
 23 August 2017: "Intense debate about chemistry preprint servers at #ACSDC" <a href="http://acsmeetings.cenmag.org/debate-chemistry-preprint-servers-chemarxiv-at-acsdc/" target="_blank">Chemical and Engineering News</a>
 
 7 May 2017: "Professor garners national honor" <a href="http://www.leadertelegram.com/Features/On-Campus/2017/05/07/Professor-garners-national-honor.html" target="_blank">Leader Telegram</a>
