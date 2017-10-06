@@ -113,6 +113,8 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Invited Talks</h3>
 <ol reversed="">
+	<li>Lee, T., Berg, D.R., and Buchanan, E., 2017. Exploring social science research methods for engineers. In <i>Proceedings of the 2017 EWB-USA Conference,</i> Milwaukee, WI. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.5477215.v1">doi</a>, <a href="https://speakerdeck.com/devinberg/exploring-social-science-research-methods-for-engineers">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.5477215.v1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Aspuru-Guzik, A., Schmid, S., Berg, D.R., Thakur, N., and Strasser, C., 2017. Publishing in the age of preprint servers: Perspectives from arXiv, bioRxiv, engrXiv, and funders of research. Panel discussion. <i>American Chemical Society National Meeting,</i> Washington, DC.</li>
 	
 	<li>Berg, D.R., 2017. Open engineering. <i>UC-Davis Mechanical and Aerospace Engineering Seminar,</i> Davis, CA. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.5036606.v1">doi</a></i>] [Video: <i><a href="https://www.youtube.com/watch?v=bdhGRLcPohs">view</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.5036606" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
