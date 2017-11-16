@@ -55,12 +55,11 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	<li>Berg, D.R. and Li, P.Y., 2017. Hydraulic Valve for Miniature Surgical Robot Applications. <i>Advanced Robotics.</i> Under Review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/N7AJQ">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
-	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Vol. 6, No. 1151. Under Review. [Paper: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.2">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-altmetric-id='22215317' data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
+	<li>Berg, D.R. and Li, P.Y., 2017. Hydraulic Valve for Miniature Surgical Robot Applications. <i>Advanced Robotics.</i> Under Review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/N7AJQ">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 
  	<li>Dekarske, J. and Berg, D.R., 2017. Path oriented powered wheelchair navigation assistance. <i>The Journal of Open Engineering.</i> Under Review. [Preprint: <i><a href="https://www.pubpub.org/pub/path-oriented-powered-wheelchair-navigation-assistance">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Vol. 6, No. 1151. [Paper: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.2">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-altmetric-id='22215317' data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
  	<li>Berg, D.R., Lee, T., and Buchanan, E., 2016. A methodology for exploring, documenting, and improving humanitarian service learning in the university. <i>Journal of Humanitarian Engineering.</i> Vol. 4, No. 1. [Paper: <i><a href="https://dx.doi.org/10.6084/m9.figshare.2758129.v2">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/471592PB.pdf">download</a>, <a href="magnet:?xt=urn:btih:4cdade8fa3c6d451441fda7ae19bb53537b6ee21&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">torrent</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.2758129" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
