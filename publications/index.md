@@ -14,10 +14,15 @@ Below are some of the papers and other artifacts I have published. Additional in
 <li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
 <li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
 <li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
-<li><a href="https://uwstout.academia.edu/DevinBerg">Academia.edu</a>: For a more academically oriented page.</li>   
-<li><a href="https://www.researchgate.net/profile/Devin_Berg/">ResearchGate</a>: For a more research oriented page.</li>   
 <li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
 </ul>  
+
+<h4>Metrics</h4>
+<ul>
+<li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
+<li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
+<li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
+</ul>
 </td>
 
 <td>
@@ -31,20 +36,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 <li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for releases of various software type items which are assigned a DOI.</li>
 <li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: My research outputs available for download as torrents. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
 </ul>
-</td>
-</tr>
 
-<tr>
-<td style="vertical-align:top">
-<h4>Metrics</h4>
-<ul>
-<li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
-<li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
-<li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
-</ul>
-</td>
-
-<td style="vertical-align:top">
 <h4>Other</h4>
 <ul>
 <li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
