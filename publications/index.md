@@ -22,6 +22,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 <li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
 <li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
 <li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
+<li><a href="https://tools.wmflabs.org/scholia/author/Q47008279">Scholia</a>: Built on Wikidata.</li>
 </ul>
 </td>
 
