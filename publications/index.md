@@ -75,7 +75,7 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Conference Papers</h3>
 <ol reversed="">
-	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Submitted.</li>
+	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Submitted. [Preprint: <i><a href="https://engrxiv.org/sj9w6">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/SJ9W6" data-hide-no-mentions="true" class="altmetric-embed"></span></li></li>
 	
 	<li>Berg, D.R., Donahue, M., Wigdahl, M., and Collins, C.D., 2017. Mechatronics Workshop for Elementary School Outreach. In <i>Proceedings of the 2017 ASEE North Midwest Section Conference,</i> Minneapolis, MN. [Preprint: <i><a href="https://engrxiv.org/pgtuq">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/PGTUQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
