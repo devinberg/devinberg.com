@@ -48,6 +48,8 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Journal Articles</h3>
 <ol reversed="">
+	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2018. Selection of Artificial Muscle Actuators for a Continuum Manipulator. <i>IEEE/ASME Transactions on Mechatronics.</i> Under Review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/YH2K6">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R. and Li, P.Y., 2018. Hydraulic Valve for Miniature Surgical Robot Applications. <i>Advanced Robotics.</i> Under Review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/N7AJQ">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 
  	<li>Dekarske, J. and Berg, D.R., 2018. Path oriented powered wheelchair navigation assistance. <i>The Journal of Open Engineering.</i> Under Review. [Preprint: <i><a href="https://www.pubpub.org/pub/path-oriented-powered-wheelchair-navigation-assistance">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
