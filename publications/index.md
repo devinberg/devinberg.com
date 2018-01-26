@@ -3,48 +3,7 @@ layout: page
 title: Publications
 section: Publications
 ---
-Below are some of the papers and other artifacts I have published. Additional information about my papers and citations can be found here:
-
-<h3>Links</h3>
-<table cellspacing="50">
-<tr>
-<td>
-<h4>Profiles</h4>
-<ul>
-<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
-<li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
-<li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
-<li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
-</ul>  
-
-<h4>Metrics</h4>
-<ul>
-<li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
-<li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
-<li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
-<li><a href="https://tools.wmflabs.org/scholia/author/Q47008279">Scholia</a>: Built on Wikidata.</li>
-</ul>
-</td>
-
-<td>
-<h4>Scholarly Output</h4>
-<ul>
-<li><a href="http://figshare.com/authors/Devin%20Berg/412062">Figshare</a>: A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.</li>
-<li><a href="https://speakerdeck.com/devinberg">Speaker Deck</a>: My presentation slides in a format that is easier to view online. Overlap with Figshare.</li>  
-<li><a href="https://osf.io/4cdtj/">Open Science Framework</a>: For project working documents and research workflow.</li>   
-<li><a href="http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT">Youtube</a>: Videos from my research or teaching activities.</li>
-<li><a href="https://github.com/devinberg">GitHub</a>: A repository for various code projects. Some personal some professional.</li>   
-<li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for releases of various software type items which are assigned a DOI.</li>
-<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: My research outputs available for download as torrents. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
-</ul>
-
-<h4>Other</h4>
-<ul>
-<li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
-</ul>
-</td>
-</tr>
-</table>
+Below are some of the papers and other artifacts I have published. 
 
 <h3>Journal Articles</h3>
 <ol reversed="">
@@ -64,7 +23,7 @@ Below are some of the papers and other artifacts I have published. Additional in
  	
  	<li>Liu, Z.G., Berg, D.R., Swor, T.A., Schauer, J.J., and Zielinska, B., 2009. A study on the emissions of chemical species from heavy-duty diesel engines and the effects of modern aftertreatment technology. <i>SAE 2009-01-1084 (SP-2254). World Congress and Exhibition,</i> Detroit, MI. [Paper:<i><a href="http://dx.doi.org/10.4271/2009-01-1084">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/liu_09_study.pdf">download</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.4271/2009-01-1084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
- 	<li>Schmidt, J., Berg, D.R., Ploeg, L., and Ploeg H.-L., 2009. Precision, repeatability and accuracy of Optotrak optical motion tracking systems. <i>International Journal of Experimental and Computational Biomechanics.</i> Vol. 1, No. 1, pp. 114-127. [Paper: <i><a href="http://dx.doi.org/10.1504/IJECB.2009.022862">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/schmidt_09_precision.pdf">download</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.1504/IJECB.2009.022862" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+ 	<li>Schmidt, J., Berg, D.R., Ploeg, L., and Ploeg H.-L., 2009. Precision, repeatability and accuracy of Optotrak optical motion tracking systems. <i>International Journal of Experimental and Computational Biomechanics.</i> Vol. 1, No. 1, pp. 114-127. [Paper: <i><a href="http://dx.doi.org/10.1504/IJECB.2009.022862">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/schmidt_09_precision.pdf">download</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/MCR5X">doi</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.1504/IJECB.2009.022862" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
  	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. Effects of a zeolite-selective catalytic reduction system on comprehensive emissions from a heavy-duty diesel engine. <i>Journal of the Air and Waste Management Association.</i> Vol. 58, No. 10, pp. 1258-1265. [Paper: <i><a href="http://www.tandfonline.com/doi/abs/10.3155/1047-3289.58.10.1258">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/liu_08_effects.pdf">download</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3155/1047-3289.58.10.1258" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
@@ -72,22 +31,22 @@ Below are some of the papers and other artifacts I have published. Additional in
 	
  	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. An analysis of methods for measuring particulate matter mass emissions. <i>SAE 2008-01-1748 (V117-4). International Powertrains, Fuels and Lubricants Congress,</i> Shanghai, China. [Paper: <i><a href="http://dx.doi.org/10.4271/2008-01-1748">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/liu_08_analysis.pdf">download</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.4271/2008-01-1748" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. Detailed effects of a diesel particulate filter on the reduction of chemical species emissions. <i>SAE 2008-01-0333 (V117-4). World Congress and Exhibition,</i> Detroit, MI. [Paper: <i><a href="http://dx.doi.org/10.4271/2008-01-0333">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/liu_08_detailed.pdf">download</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.4271/2008-01-0333" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+ 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. Detailed effects of a diesel particulate filter on the reduction of chemical species emissions. <i>SAE 2008-01-0333 (V117-4). World Congress and Exhibition,</i> Detroit, MI. [Paper: <i><a href="http://dx.doi.org/10.4271/2008-01-0333">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/liu_08_detailed.pdf">download</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/S47FH">doi</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.4271/2008-01-0333" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 </ol>
 
 <h3>Conference Papers</h3>
 <ol reversed="">
-	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Submitted. [Preprint: <i><a href="https://engrxiv.org/sj9w6">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/SJ9W6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Submitted. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/SJ9W6">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/SJ9W6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Lee, T., Berg, D.R., and Buchanan, E. Challenges and opportunities in international service learning. In <i>Proceedings of the 2018 ASEE Annual Conference,</i> Salt Lake City, UT, 2018. ASEE. Under review.</li>
 	
-	<li>Berg, D.R., Donahue, M., Wigdahl, M., and Collins, C.D., 2017. Mechatronics Workshop for Elementary School Outreach. In <i>Proceedings of the 2017 ASEE North Midwest Section Conference,</i> Minneapolis, MN. [Preprint: <i><a href="https://engrxiv.org/pgtuq">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/PGTUQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., Donahue, M., Wigdahl, M., and Collins, C.D., 2017. Mechatronics Workshop for Elementary School Outreach. In <i>Proceedings of the 2017 ASEE North Midwest Section Conference,</i> Minneapolis, MN. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/PGTUQ">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/PGTUQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R., Wigdahl, M., and Collins, C.D., 2017. Assistive Technology for Freshmen Design and K-12 Outreach. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://engrxiv.org/pdzss">link</a></i>] [Poster: <i><a href="https://doi.org/10.6084/m9.figshare.5143291.v1">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., Wigdahl, M., and Collins, C.D., 2017. Assistive Technology for Freshmen Design and K-12 Outreach. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://peer.asee.org/27916">link</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/PDZSS">doi</a></i>] [Poster: <i><a href="https://doi.org/10.6084/m9.figshare.5143291.v1">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Lee, T., Berg, D.R., and Buchanan, E.A., 2017. Exploring, Documenting, and Improving Humanitarian Service Learning through Engineers Without Borders USA. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://engrxiv.org/6r94n">link</a></i>] [Poster: <i><a href="https://doi.org/10.6084/m9.figshare.5151553.v1">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Lee, T., Berg, D.R., and Buchanan, E.A., 2017. Exploring, Documenting, and Improving Humanitarian Service Learning through Engineers Without Borders USA. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://peer.asee.org/27940">link</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/6R94N">doi</a></i>] [Poster: <i><a href="https://doi.org/10.6084/m9.figshare.5151553.v1">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Lacksonen, T., Springer, S., and Berg, D.R., 2017. Global engineering projects from the Young African Leaders Initiative. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://engrxiv.org/zrx9s">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Lacksonen, T., Springer, S., and Berg, D.R., 2017. Global engineering projects from the Young African Leaders Initiative. In <i>Proceedings of the 2017 ASEE Annual Conference and Exposition,</i> Columbus, OH. [Paper: <i><a href="https://peer.asee.org/28409">link</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/ZRX9S">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R. and Lee, T., 2016. Incorporation of liberal education into the engineering curriculum at a polytechnic. In <i>Proceedings of the 2016 ASEE Annual Conference and Exposition,</i> New Orleans, LA. [Paper: <i><a href="http://dx.doi.org/10.18260/p.25664">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/incorporation-of-liberal-education-into-the-engineering-curriculum-at-a-polytechnic.pdf">download</a>, <a href="magnet:?xt=urn:btih:c4b6df17cd68ce4afc1634bce40d45f95384bc50&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">torrent</a></i>] [Presentation: <i><a href="https://dx.doi.org/10.6084/m9.figshare.3464132.v1">doi</a>, <a href="https://speakerdeck.com/devinberg/incorporation-of-liberal-education-into-the-engineering-curriculum-at-a-polytechnic">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.18260/p.25664" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
@@ -155,6 +114,49 @@ Below are some of the papers and other artifacts I have published. Additional in
 
 <h3>Dissertation</h3>
 Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally invasive surgery. PhD Dissertation. University of Minnesota - Twin Cities, Minneapolis, MN. [Dissertation: <i><a href="http://hdl.handle.net/11299/159593">doi</a>, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/DevinBerg_dissertation2013s.pdf">download</a>, <a href="magnet:?xt=urn:btih:6e839ebb0394250327729c7f5e3b000061c71bfe&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">torrent</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.963287" data-hide-no-mentions="true" class="altmetric-embed"></span>
+
+Additional information about my papers and citations can be found here:
+
+<h3>Links</h3>
+<table cellspacing="50">
+<tr>
+<td>
+<h4>Profiles</h4>
+<ul>
+<li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
+<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
+<li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
+<li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
+<li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
+</ul>  
+
+<h4>Metrics</h4>
+<ul>
+<li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
+<li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
+<li><a href="https://tools.wmflabs.org/scholia/author/Q47008279">Scholia</a>: Built on Wikidata.</li>
+</ul>
+</td>
+
+<td>
+<h4>Scholarly Output</h4>
+<ul>
+<li><a href="http://figshare.com/authors/Devin%20Berg/412062">Figshare</a>: A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.</li>
+<li><a href="https://speakerdeck.com/devinberg">Speaker Deck</a>: My presentation slides in a format that is easier to view online. Overlap with Figshare.</li>  
+<li><a href="https://osf.io/4cdtj/">Open Science Framework</a>: For project working documents and research workflow.</li>   
+<li><a href="http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT">Youtube</a>: Videos from my research or teaching activities.</li>
+<li><a href="https://github.com/devinberg">GitHub</a>: A repository for various code projects. Some personal some professional.</li>   
+<li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for releases of various software type items which are assigned a DOI.</li>
+<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: My research outputs available for download as torrents. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
+</ul>
+
+<h4>Other</h4>
+<ul>
+<li><a href="https://www.zotero.org/devinberg/items">Zotero</a>: My library of research articles that I have collected over the last few years.</li>
+</ul>
+</td>
+</tr>
+</table>
 
 <br/>
 <br/>
