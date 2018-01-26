@@ -84,11 +84,11 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
-	<li>Berg, D.R., 2017. Open in order to open engineering. <i>Authorea Preprints.</i> [Paper: <i><a href="http://doi.org/10.22541/au.151029608.80979987">doi</a>, <a href="https://www.authorea.com/users/102408/articles/212027-open-in-order-to-open-engineering">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.22541/au.151029608.80979987" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., 2017. Open in order to open engineering. <i>Authorea Preprints.</i> [Paper: <i><a href="http://doi.org/10.22541/au.151029608.80979987">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.22541/au.151029608.80979987" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R., 2017. Open research, open engineering, and the role of the university in society. <i>engrXiv Preprints.</i> [Paper: <i><a href="http://doi.org/10.17605/OSF.IO/9VSQ4">doi</a>, <a href="https://engrxiv.org/f83n3/">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/9VSQ4" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., 2017. Open research, open engineering, and the role of the university in society. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.17605/OSF.IO/F83N3">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/9VSQ4" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. Open publishing in engineering. Editorial in <i>The Journal of Open Engineering.</i> [Paper: <i><a href="http://doi.org/10.21428/12302">doi</a>, <a href="http://www.tjoe.org/article/open-publishing-in-engineering">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/12302" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. Open publishing in engineering. Editorial in <i>The Journal of Open Engineering.</i> [Paper: <i><a href="http://doi.org/10.21428/12302">doi</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/12302" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 </ol>
 
 <h3>Other (Posters, Datasets, Code, and Teaching Demos)</h3>
