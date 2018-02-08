@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+7 February 2018: "Preprint Services Gather to Explore an Annotated Future" <a href="https://web.hypothes.is/blog/preprint-services-gather-to-explore-an-annotated-future/" target="_blank">hypothes.is blog</a>
+
 21 September 2017: "Diversity Awards recognize work of university faculty, staff" <a href="http://www.uwstout.edu/news/articles/Diversity-Awards-recognize-work-of-university-faculty-staff.cfm" target="_blank">UW-Stout Press Release</a>
 
 23 August 2017: "Intense debate about chemistry preprint servers at #ACSDC" <a href="http://acsmeetings.cenmag.org/debate-chemistry-preprint-servers-chemarxiv-at-acsdc/" target="_blank">Chemical and Engineering News</a>
