@@ -76,6 +76,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Invited Talks</h3>
 <ol reversed="">
+	<li>Berg, D.R., 2018. Building open in engineering. <i>"E"ffordability Summit,</i> Menomonie, WI. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.6015932.v1">10.6084/m9.figshare.6015932.v1</a>, <a href="https://speakerdeck.com/devinberg/building-open-in-engineering">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.6015932" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Lee, T., Berg, D.R., and Buchanan, E., 2017. Exploring social science research methods for engineers. In <i>Proceedings of the 2017 EWB-USA Conference,</i> Milwaukee, WI. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.5477215.v1">10.6084/m9.figshare.5477215.v1</a>, <a href="https://speakerdeck.com/devinberg/exploring-social-science-research-methods-for-engineers">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.5477215" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Aspuru-Guzik, A., Schmid, S., Berg, D.R., Thakur, N., and Strasser, C., 2017. Publishing in the age of preprint servers: Perspectives from arXiv, bioRxiv, engrXiv, and funders of research. Panel discussion. <i>American Chemical Society National Meeting,</i> Washington, DC.</li>
