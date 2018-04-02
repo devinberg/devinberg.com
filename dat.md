@@ -1,5 +1,4 @@
 ---
 permalink: .well-known/dat
 ---
-dat://f9483dfcca02113e1f7cad3f814d5b36c937b3faed889e9fd132392cfc59cd7b
-TTL=3600
+{% include dat.html %}
