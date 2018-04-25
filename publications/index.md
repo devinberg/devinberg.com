@@ -39,7 +39,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Conference Papers</h3>
 <ol reversed="">
-	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Under review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/SJ9W6">10.17605/OSF.IO/SJ9W6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/SJ9W6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. User Testing of a Continuum Manipulator for Assistive Technology. In <i>Proceedings of the 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference,</i> Arlington, VA. Accepted. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/SJ9W6">10.17605/OSF.IO/SJ9W6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/SJ9W6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Lee, T., Berg, D.R., and Buchanan, E. Challenges and opportunities in international service learning. In <i>Proceedings of the 2018 ASEE Annual Conference,</i> Salt Lake City, UT, 2018. ASEE. Under review. [Preprint: <i><a href="https://dx.doi.org/10.17605/OSF.IO/54RZ7">10.17605/OSF.IO/54RZ7</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/54RZ7" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
