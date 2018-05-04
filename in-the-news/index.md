@@ -6,9 +6,11 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+3 May 2018: "Six students are university’s first mechanical engineering graduates" <a href="https://www.uwstout.edu/about-us/news-center/six-students-are-universitys-first-mechanical-engineering-graduates-0" target="_blank">UW-Stout Press Release</a>
+
 7 February 2018: "Preprint Services Gather to Explore an Annotated Future" <a href="https://web.hypothes.is/blog/preprint-services-gather-to-explore-an-annotated-future/" target="_blank">hypothes.is blog</a>
 
-21 September 2017: "Diversity Awards recognize work of university faculty, staff" <a href="http://www.uwstout.edu/news/articles/Diversity-Awards-recognize-work-of-university-faculty-staff.cfm" target="_blank">UW-Stout Press Release</a>
+21 September 2017: "Diversity Awards recognize work of university faculty, staff" <a href="https://www.uwstout.edu/about-us/news-center/diversity-awards-recognize-work-university-faculty-staff" target="_blank">UW-Stout Press Release</a>
 
 23 August 2017: "Intense debate about chemistry preprint servers at #ACSDC" <a href="http://acsmeetings.cenmag.org/debate-chemistry-preprint-servers-chemarxiv-at-acsdc/" target="_blank">Chemical and Engineering News</a>
 
