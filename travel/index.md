@@ -5,25 +5,11 @@ title: Travel
 ---
 
 <h1>Visited States</h1>
-<script src="http://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script><script src="http://www.amcharts.com/lib/3/maps/js/worldHigh.js" type="text/javascript"></script>
-<script src="http://www.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/light.js" type="text/javascript"></script>
-<script src="https://www.amcharts.com/lib/3/themes/dark.js" type="text/javascript"></script>
-
-<div id="mapdiv" style="width: 700px; height: 450px;"></div>
-
-&nbsp;
-
-<h1>Visited Countries</h1>
-
-&nbsp;
-
-<div id="mapdiv2" style="width: 700px; height: 450px;"></div>
-
-<h1>Work Travel Mapped</h1>
-<iframe src="https://www.google.com/maps/d/embed?mid=1CE8QEHcXoDB7x7xEa3sG6wUwEDU" width="640" height="480"></iframe>
-
-
+<div id="mapdiv" style="width: 1000px; height: 450px;"></div>
+<div style="width: 1000px; font-size: 70%; padding: 5px 0; text-align: center; background-color: #535364; margin-top: 1px; color: #B4B4B7;"><a href="https://www.amcharts.com/visited_states/" style="color: #B4B4B7;">Create your own visited states map</a> or check out the <a href="https://www.amcharts.com/" style="color: #B4B4B7;">JavaScript Charts</a>.</div>
 <script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv",{
 type: "map",
@@ -38,9 +24,7 @@ dataProvider : {
 map : "usaHigh",
 getAreasFromMap : true,
 areas :
-[
-	{ id: 'US-AR', showAsSelected: true }, { id: 'US-CA', showAsSelected: true }, { id: 'US-CO', showAsSelected: true }, { id: 'US-DC', showAsSelected: true }, { id: 'US-FL', showAsSelected: true }, { id: 'US-GA', showAsSelected: true }, { id: 'US-IL', showAsSelected: true }, { id: 'US-IN', showAsSelected: true }, { id: 'US-IA', showAsSelected: true }, { id: 'US-ME', showAsSelected: true }, { id: 'US-MA', showAsSelected: true }, { id: 'US-MI', showAsSelected: true }, { id: 'US-MN', showAsSelected: true }, { id: 'US-MO', showAsSelected: true }, { id: 'US-NH', showAsSelected: true }, { id: 'US-NJ', showAsSelected: true }, { id: 'US-ND', showAsSelected: true }, { id: 'US-NY', showAsSelected: true }, { id: 'US-OH', showAsSelected: true }, { id: 'US-OR', showAsSelected: true }, { id: 'US-PA', showAsSelected: true }, { id: 'US-TX', showAsSelected: true }, { id: 'US-VA', showAsSelected: true }, { id: 'US-WA', showAsSelected: true }, { id: 'US-WI', showAsSelected: true }
-]
+[]
 },
 areasSettings : {
 autoZoom : true,
@@ -53,6 +37,20 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
+
+
+&nbsp;
+
+<h1>Visited Countries</h1>
+
+&nbsp;
+
+<div id="mapdiv2" style="width: 700px; height: 450px;"></div>
+
+<h1>Work Travel Mapped</h1>
+<iframe src="https://www.google.com/maps/d/embed?mid=1CE8QEHcXoDB7x7xEa3sG6wUwEDU" width="640" height="480"></iframe>
+
+
 
 <!--<script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv2",{
