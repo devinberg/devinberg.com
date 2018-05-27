@@ -24,7 +24,116 @@ dataProvider : {
 map : "usaHigh",
 getAreasFromMap : true,
 areas :
-[]
+[
+	{
+		"id": "US-AR",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-CA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-CO",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-DC",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-FL",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-GA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-IA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-IL",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-IN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-LA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-MA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-ME",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-MI",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-MN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-MO",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-ND",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-NH",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-NJ",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-NY",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-OH",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-OR",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-PA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-TX",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-UT",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-VA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-WA",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-WI",
+		"showAsSelected": true
+	}
+]
 },
 areasSettings : {
 autoZoom : true,
