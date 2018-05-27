@@ -54,7 +54,7 @@ rollOverOutlineColor : "#000000"
 });
 </script>
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
 var map = AmCharts.makeChart("mapdiv2",{
 type: "map",
 theme: "dark",
@@ -83,4 +83,4 @@ rollOverColor : "#9EC2F7",
 rollOverOutlineColor : "#000000"
 }
 });
-</script>
+</script>-->
