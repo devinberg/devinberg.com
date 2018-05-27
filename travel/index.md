@@ -161,7 +161,7 @@ rollOverOutlineColor : "#000000"
 <div id="mapdiv2" style="width: 1000px; height: 450px;"></div>
 
 <script type="text/javascript">
-var map = AmCharts.makeChart("mapdiv",{
+var map = AmCharts.makeChart("mapdiv2",{
 type: "map",
 theme: "dark",
 projection: "mercator",
