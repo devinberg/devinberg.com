@@ -70,4 +70,5 @@ Teaching Assistant, Design and Manufacturing II, January 2010 – May 2010
 </ul>
 
 <h1>Curriculum Vitae</h1>
+The most regularly updated version of my CV can be viewed [here](https://github.com/devinberg/CV/blob/master/Berg-CV_public.pdf).
 <iframe style="width: 730px; height: 925px;" src="http://docs.google.com/gview?url=https://github.com/devinberg/CV/raw/master/Berg-CV_public.pdf&amp;embedded=true" frameborder="0"></iframe>
