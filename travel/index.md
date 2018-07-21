@@ -71,6 +71,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-MD",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-ME",
 		"showAsSelected": true
 	},
