@@ -8,6 +8,8 @@ section: In the news
 
 1 August 2018: "Research aims to help elderly, those with disabilities live more independently" <a href="http://www.leadertelegram.com/Features/On-Campus/2018/08/26/div-class-libPageBodyLinebreak-Robotic-assistance-div.html" target="_blank">Leader Telegram</a>
 
+25 May 2018: "Students in engineering technology class design products to help disabled" <a href="https://chippewa.com/dunnconnect/news/local/students-in-engineering-technology-class-design-products-to-help-disabled/article_9f936fe8-e646-564d-9780-0ea9f1c1773e.html" target="_blank">The Dunn County News</a>
+
 3 May 2018: "Six students are university’s first mechanical engineering graduates" <a href="https://www.uwstout.edu/about-us/news-center/six-students-are-universitys-first-mechanical-engineering-graduates-0" target="_blank">UW-Stout Press Release</a>
 
 7 February 2018: "Preprint Services Gather to Explore an Annotated Future" <a href="https://web.hypothes.is/blog/preprint-services-gather-to-explore-an-annotated-future/" target="_blank">hypothes.is blog</a>
