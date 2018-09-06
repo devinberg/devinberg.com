@@ -141,7 +141,7 @@ Additional information about my papers and citations can be found here:
 <h4>Profiles</h4>
 <ul>
 <li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
-<li><a href="http://www.uwstout.edu/faculty/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
+<li><a href="https://www.uwstout.edu/directory/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
 <li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
 <li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
 <li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
