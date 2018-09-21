@@ -7,6 +7,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Under Review</h3>
 <ol reversed="">
+	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R. and Niemeyer, K.E. The case for openness in engineering research. [Preprint: <i><a href="http://dx.doi.org/10.12688/f1000research.14593.1">10.12688/f1000research.14593.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.14593.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of Artificial Muscle Actuators for a Continuum Manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
