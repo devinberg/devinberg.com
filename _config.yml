@@ -4,7 +4,7 @@ lsi         : false
 highlighter : rouge
 permalink   : pretty
 markdown    : kramdown
-include     : [".htaccess"]
+include     : [".htaccess", ".well-known"]
 exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
 url         : "http://www.devinberg.com/"
 
