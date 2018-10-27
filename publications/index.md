@@ -134,7 +134,6 @@ Below are some of the papers and other artifacts I have published.
 <h3>Dissertation</h3>
 Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally invasive surgery. PhD Dissertation. University of Minnesota - Twin Cities, Minneapolis, MN. [Dissertation: <i><a href="https://doi.org/10.6084/m9.figshare.963287.v1">10.6084/m9.figshare.963287.v1</a>, <a href="http://hdl.handle.net/11299/159593">link</a>, <a href="magnet:?xt=urn:btih:6e839ebb0394250327729c7f5e3b000061c71bfe&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">torrent</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.963287" data-hide-no-mentions="true" class="altmetric-embed"></span>
 
-Additional information about my papers and citations can be found here:
 
 <h3>Links</h3>
 <table cellspacing="50">
