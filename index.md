@@ -46,7 +46,9 @@ Mechanical Engineering
 <dd><a href="http://www.uwstout.edu/faculty/bergdev/">bergdev</a></dd>
 <dt>Twitter:</dt>
 <dd><a href="https://twitter.com/devinberg">@devinberg</a></dd>
-<dt>GitHub:</dt>
+<dt>Mastodon:</dt>
+<dd><a rel="me" href="https://scholar.social/@drb">@drb@scholar.social</a>
+</dd><dt>GitHub:</dt>
 <dd><a href="https://github.com/devinberg">devinberg</a></dd>
 <dt>LinkedIn:</dt>
 <dd><a href="https://www.linkedin.com/in/devinberg">devinberg</a></dd>
