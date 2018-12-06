@@ -2,11 +2,12 @@
 destination : _site
 lsi         : false
 highlighter : rouge
-permalink   : pretty
+permalink   : /:year/:month/:title
+paginate    : 3
 markdown    : kramdown
 include     : [".htaccess", ".well-known"]
 exclude	    : ["rsync-site.sh", ".git", ".gitignore", "Gemfile", "Gemfile.lock", "script", "vendor", "tmp"]
-url         : "http://www.devinberg.com/"
+url         : "https://www.devinberg.com/"
 
 author:
     name : Devin R. Berg
