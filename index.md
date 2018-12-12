@@ -69,7 +69,7 @@ Menomonie, WI 54751
 
 ## Current Teaching
 
-[**Impacts of Engineering**](https://impactsofengineering.wordpress.com/) (ETECH-100)
-
+[**Impacts of Engineering**](https://engrimpacts.github.io/) (ETECH-100)  
+[**Lecture Series in Engineering**](https://engr-400.github.io/) (ENGR-400)
 
 <p style="padding-bottom: 3cm;">&nbsp;</p>
