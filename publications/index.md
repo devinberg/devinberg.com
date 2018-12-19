@@ -7,7 +7,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Under Review</h3>
 <ol reversed="">
-	<li>Katz, D.D., Allen, G., Barba, L.A., Berg, D.R. et al. The principles of tomorrow's university. [Preprint: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al. The principles of tomorrow's university. [Preprint: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Sneller, K., Swanson, E., Metevier, S., and Berg, D.R. Continuum arm manipulator refinement for assistive technology. [Preprint: <i><a href="https://doi.org/10.31224/osf.io/xvbry">10.31224/osf.io/xvbry</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/xvbry" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
