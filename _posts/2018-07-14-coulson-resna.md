@@ -1,7 +1,7 @@
 ---
 title: "User Testing Of A Continuum Manipulator For Assistive Technology"
 tags: [RESNA, continuum, assistive technology]
-category: lecture
+category: conference
 layout: post
 comments: true
 ---
