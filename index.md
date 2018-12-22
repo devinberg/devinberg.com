@@ -43,7 +43,7 @@ Mechanical Engineering
 <dt>Office:</dt>
 <dd>715-232-1133</dd>
 <dt>Faculty Profile:</dt>
-<dd><a href="http://www.uwstout.edu/faculty/bergdev/">bergdev</a></dd>
+<dd><a href="https://www.uwstout.edu/directory/bergdev">bergdev</a></dd>
 <dt>Twitter:</dt>
 <dd><a href="https://twitter.com/devinberg">@devinberg</a></dd>
 <dt>Mastodon:</dt>
