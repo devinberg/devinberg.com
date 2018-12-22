@@ -8,7 +8,7 @@ comments: true
 ---
 
 ## Authors
-Ryan Coulson, Max Kirkpatrick1, Megan Robinson, Meghan Donahue, Devin R. Berg
+Ryan Coulson, Max Kirkpatrick, Megan Robinson, Meghan Donahue, Devin R. Berg
 
 ## Venue
 2018 Rehabilitation Engineering and Assistive Technology Society of North America Annual Conference, Arlington, VA.
