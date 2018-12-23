@@ -24,7 +24,7 @@ Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD
 	<li>Developed analytical and numerical models to describe system kinematics and test operation.</li>
 </ul>
 
-<h1>Teaching Experience</h1>  
+<h1>Experience</h1>  
 <b>Engineering and Technology Department</b>, University of Wisconsin - Stout  
 Associate Professor, June 2016 - present  
 Assistant Professor, August 2012 - May 2016  
