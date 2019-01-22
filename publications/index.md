@@ -7,8 +7,6 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Under Review</h3>
 <ol reversed="">
-	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al. The principles of tomorrow's university. [Preprint: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
 	<li>Sneller, K., Swanson, E., Metevier, S., and Berg, D.R. Continuum arm manipulator refinement for assistive technology. [Preprint: <i><a href="https://doi.org/10.31224/osf.io/xvbry">10.31224/osf.io/xvbry</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/xvbry" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
@@ -24,6 +22,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
+	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al. The principles of tomorrow's university. [Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Vol. 6, No. 1151. (Jean-Claude Guédon Prize) [Paper: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.3">10.12688/f1000research.12037.3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-altmetric-id='29632396' data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
  	<li>Berg, D.R., Lee, T., and Buchanan, E., 2016. A methodology for exploring, documenting, and improving humanitarian service learning in the university. <i>Journal of Humanitarian Engineering.</i> Vol. 4, No. 1. [Paper: <i><a href="https://www.ewb.org.au/jhe/index.php/jhe/article/view/47">link</a>, <a href="magnet:?xt=urn:btih:4cdade8fa3c6d451441fda7ae19bb53537b6ee21&tr=http%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce">torrent</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.6084/m9.figshare.2758129.v2">10.6084/m9.figshare.2758129.v2</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.2758129" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
