@@ -22,7 +22,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al. The principles of tomorrow's university. [Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. The principles of tomorrow's university. <i>F1000Research.</i> Vol. 7, No. 1926.[Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Vol. 6, No. 1151. (Jean-Claude Guédon Prize) [Paper: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.3">10.12688/f1000research.12037.3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-altmetric-id='29632396' data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
