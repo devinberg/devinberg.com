@@ -9,8 +9,6 @@ Below are some of the papers and other artifacts I have published.
 <ol reversed="">
 	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R. and Niemeyer, K.E. The case for openness in engineering research. [Preprint: <i><a href="https://doi.org/10.12688/f1000research.14593.2">10.12688/f1000research.14593.2</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.14593.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of Artificial Muscle Actuators for a Continuum Manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R. and Li, P.Y. Hydraulic Valve for Miniature Surgical Robot Applications. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
@@ -21,6 +19,8 @@ Below are some of the papers and other artifacts I have published.
 <h3>Journal Articles</h3>
 <ol reversed="">
 	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. The principles of tomorrow's university. <i>F1000Research.</i> Vol. 7, No. 1926.[Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Berg, D.R. and Niemeyer, K.E., 2018. The case for openness in engineering research. <i>F1000Research.</i> Vol. 7, No. 501.[Paper: <i><a href="https://doi.org/10.12688/f1000research.14593.1">10.12688/f1000research.14593.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.14593.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. A multi-disciplinary perspective on emergent and future innovations in peer review. <i>F1000Research.</i> Vol. 6, No. 1151. (Jean-Claude Guédon Prize) [Paper: <i><a href="http://dx.doi.org/10.12688/f1000research.12037.3">10.12688/f1000research.12037.3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-altmetric-id='29632396' data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
