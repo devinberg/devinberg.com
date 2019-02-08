@@ -45,7 +45,9 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Conference Papers and Presentations</h3>
 <ol reversed="">
-	<li>Buchanan, E., Lee, T., and Berg, D.R., 2019. Collaborations Across Campus: Bringing Ethics and Social Science to the Engineering Classroom . <i>Polytechnic Summit,</i> Menomonie, WI. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R. and Paulson, N., 2019. Applied Research Innovation through Social Networks: The Story of a Mechanical Engineer, a Sociologist, and a Restaurant. <i>Polytechnic Summit,</i> Menomonie, WI. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Buchanan, E., Lee, T., and Berg, D.R., 2019. Collaborations Across Campus: Bringing Ethics and Social Science to the Engineering Classroom. <i>Polytechnic Summit,</i> Menomonie, WI. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. Visions of alternative development in Engineers Without Borders: Possibilities and constraints. <i>Society for Applied Anthropology Annual Meeting,</i> Portland, OR. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
