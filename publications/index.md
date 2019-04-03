@@ -45,6 +45,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Conference Papers and Presentations</h3>
 <ol reversed="">
+	<li>Lee, T., Buchanan, E., and Berg, D.R. Impacts of Engineering Justice Curriculum: A Survey of Student Attitudes. In <i>Proceedings of the 2019 ASEE Annual Conference,</i> Tampa, FL, 2019. ASEE. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/v83k5">10.31224/osf.io/v83k5</a></i>]  <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/v83k5" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R. and Paulson, N., 2019. Applied Research Innovation through Social Networks: The Story of a Mechanical Engineer, a Sociologist, and a Restaurant. <i>Polytechnic Summit,</i> Menomonie, WI. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Buchanan, E., Lee, T., and Berg, D.R., 2019. Collaborations Across Campus: Bringing Ethics and Social Science to the Engineering Classroom. <i>Polytechnic Summit,</i> Menomonie, WI. <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
