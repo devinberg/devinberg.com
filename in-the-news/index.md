@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
+22 May 2019: "Professors study biodiversity, food and farming in Peru" <a href="https://www.uwstout.edu/about-us/news-center/professors-study-biodiversity-food-and-farming-peru" target="_blank">UW-Stout Press Release</a>
+
 1 August 2018: "Research aims to help elderly, those with disabilities live more independently" <a href="http://www.leadertelegram.com/Features/On-Campus/2018/08/26/div-class-libPageBodyLinebreak-Robotic-assistance-div.html" target="_blank">Leader Telegram</a>
 
 25 May 2018: "Students in engineering technology class design products to help disabled" <a href="https://chippewa.com/dunnconnect/news/local/students-in-engineering-technology-class-design-products-to-help-disabled/article_9f936fe8-e646-564d-9780-0ea9f1c1773e.html" target="_blank">The Dunn County News</a>
