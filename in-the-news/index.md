@@ -6,7 +6,7 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>
 
-22 May 2019: "Professors study biodiversity, food and farming in Peru" <a href="https://www.uwstout.edu/about-us/news-center/professors-study-biodiversity-food-and-farming-peru" target="_blank">UW-Stout Press Release</a>
+22 May 2019: "Professors study biodiversity, food and farming in Peru" <a href="https://www.leadertelegram.com/news/front-page/professors-study-biodiversity-food-and-farming-in-peru/article_06240d8c-2ab1-5a59-850d-3622837f72fb.html" target="_blank">Leader Telegram</a>
 
 1 August 2018: "Research aims to help elderly, those with disabilities live more independently" <a href="http://www.leadertelegram.com/Features/On-Campus/2018/08/26/div-class-libPageBodyLinebreak-Robotic-assistance-div.html" target="_blank">Leader Telegram</a>
 
