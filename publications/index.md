@@ -9,7 +9,7 @@ Below are some of the papers and other artifacts I have published.
 <ol reversed="">
 	<li>Lee, T., Buchanan, E., and Berg, D.R. Issues of Privilege in University Service-Learning. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/ehaux">10.31224/osf.io/ehaux</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/ehaux" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and preliminary testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of Artificial Muscle Actuators for a Continuum Manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
