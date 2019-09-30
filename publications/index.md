@@ -18,7 +18,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and preliminary testing of a continuum assistive robotic manipulator. <i>Robotics.</i> Vol. 8, No. 4. [Paper: <i><a href="https://doi.org/10.3390/robotics8040084">10.3390/robotics8040084</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics8040084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R., 2019. Design and preliminary testing of a continuum assistive robotic manipulator. <i>Robotics.</i> Vol. 8, No. 4. [Paper: <i><a href="https://doi.org/10.3390/robotics8040084">10.3390/robotics8040084</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics8040084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. The principles of tomorrow's university. <i>F1000Research.</i> Vol. 7, No. 1926. [Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
