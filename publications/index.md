@@ -9,8 +9,6 @@ Below are some of the papers and other artifacts I have published.
 <ol reversed="">
 	<li>Lee, T., Buchanan, E., and Berg, D.R. Issues of Privilege in University Service-Learning. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/ehaux">10.31224/osf.io/ehaux</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/ehaux" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and preliminary testing of a continuum assistive robotic manipulator. [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/upk7g" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of Artificial Muscle Actuators for a Continuum Manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R. and Li, P.Y. Hydraulic Valve for Miniature Surgical Robot Applications. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
@@ -20,6 +18,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
+	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R. Design and preliminary testing of a continuum assistive robotic manipulator. <i>Robotics.</i> Vol. 8, No. 4. [Paper: <i><a href="https://doi.org/10.3390/robotics8040084">10.3390/robotics8040084</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics8040084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. The principles of tomorrow's university. <i>F1000Research.</i> Vol. 7, No. 1926. [Paper: <i><a href="https://doi.org/10.12688/f1000research.17425.1">10.12688/f1000research.17425.1</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.17425.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R. and Niemeyer, K.E., 2018. The case for openness in engineering research. <i>F1000Research.</i> Vol. 7, No. 501. [Paper: <i><a href="https://doi.org/10.12688/f1000research.14593.2">10.12688/f1000research.14593.2</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.12688/f1000research.14593.1" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
