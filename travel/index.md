@@ -181,6 +181,10 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "AR",
+		"showAsSelected": true
+	},
+	{
 		"id": "AT",
 		"showAsSelected": true
 	},
@@ -190,6 +194,10 @@ areas :
 	},
 	{
 		"id": "DE",
+		"showAsSelected": true
+	},
+	{
+		"id": "CL",
 		"showAsSelected": true
 	},
 	{
