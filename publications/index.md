@@ -16,7 +16,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. Issues of Privilege in University Service-Learning. <i>International Journal for Service Learning in Engineering.</i> Vol. 14, No. 3. [Paper: <i><a href="https://doi.org/10.24908/ijsle.v14i3.13197">10.24908/ijsle.v14i3.13197</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/ehaux">10.31224/osf.io/ehaux</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.24908/ijsle.v14i3.13197" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. Issues of Privilege in University Service-Learning. <i>International Journal for Service Learning in Engineering, Humanitarian Engineering and Social Entrepreneurship.</i> Vol. 14, No. 3. [Paper: <i><a href="https://doi.org/10.24908/ijsle.v14i3.13197">10.24908/ijsle.v14i3.13197</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/ehaux">10.31224/osf.io/ehaux</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.24908/ijsle.v14i3.13197" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R., 2019. Design and preliminary testing of a continuum assistive robotic manipulator. <i>Robotics.</i> Vol. 8, No. 4. [Paper: <i><a href="https://doi.org/10.3390/robotics8040084">10.3390/robotics8040084</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics8040084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
