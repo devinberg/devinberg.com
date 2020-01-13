@@ -11,7 +11,7 @@ Below are some of the papers and other artifacts I have published.
 	
 	<li>Berg, D.R. and Li, P.Y. Hydraulic Valve for Miniature Surgical Robot Applications. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 
- 	<li>Dekarske, J. and Berg, D.R. Path oriented powered wheelchair navigation assistance. [Preprint: <i><a href="https://www.tjoe.org/pub/path-oriented-powered-wheelchair-navigation-assistance/collaborate">link</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+ 	<li>Dekarske, J. and Berg, D.R. Path oriented powered wheelchair navigation assistance. [Preprint: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 </ol>
 
 <h3>Journal Articles</h3>
