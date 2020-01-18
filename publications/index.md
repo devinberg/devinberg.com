@@ -5,7 +5,7 @@ section: Publications
 ---
 Below are some of the papers and other artifacts I have published.  
 
-<h3>Under Review</h3>
+<h3>In Progress</h3>
 <ol reversed="">
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of Artificial Muscle Actuators for a Continuum Manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
