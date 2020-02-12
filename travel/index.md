@@ -189,6 +189,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "BE",
+		"showAsSelected": true
+	},
+	{
 		"id": "FR",
 		"showAsSelected": true
 	},
