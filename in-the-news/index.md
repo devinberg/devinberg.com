@@ -4,7 +4,7 @@ title: In the news
 section: In the news
 ---
 
-<strong>Press, news, and blog coverage</strong>
+<strong>Press, news, and blog coverage</strong>  
 
 10 February 2020: "Canastas Verdes Project: Organic Farming and Produce Delivery in the Sacred Valley" <a href="https://www.livinginperu.com/canastas-verdes-project-organic-farming-and-produce-delivery-in-the-sacred-valley/" target="_blank">Traveling & Living in Peru</a>
 
