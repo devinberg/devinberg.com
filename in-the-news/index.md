@@ -5,6 +5,7 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>
+
 10 February 2020: "Canastas Verdes Project: Organic Farming and Produce Delivery in the Sacred Valley" <a href="https://www.livinginperu.com/canastas-verdes-project-organic-farming-and-produce-delivery-in-the-sacred-valley/" target="_blank">Traveling & Living in Peru</a>
 
 3 February 2020: "Canastas Verdes is a cross-cultural, organic farming organization based in Urubamba Peru" <a href="https://www.facebook.com/humanswhogrowfood/posts/1084588628554339" target="_blank">Humans Who Grow Food</a>
