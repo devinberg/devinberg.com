@@ -7,7 +7,7 @@ section: Home
 <div class="row">
 <div class="col-md-6">
 
-I am an associate professor at the University of Wisconsin-Stout where I am also the program director of the [BS Mechanical Engineering program](http://www.uwstout.edu/programs/bsme/). My main activities include conducting research in medical devices, robotics, and engineering education as well as teaching a freshmen level engineering course discussing the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer.
+I am an associate professor at the University of Wisconsin-Stout where I am also the program director of the [BS Mechanical Engineering program](http://www.uwstout.edu/programs/bsme/). My main activities include conducting research in medical devices, robotics, and engineering education as well as teaching a freshmen level engineering course discussing the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer. I am the director of two organizations focused on providing greater public access to engineering knowledge and for the promotion of open practices in the engineering field.
 
 A brief list of my primary activities includes:
 
@@ -16,6 +16,7 @@ A brief list of my primary activities includes:
  * Conducting the day-to-day operations of the BS Mechanical Engineering program, recruiting, assessment, and answering student questions
  * Acting as the founder and editor for [The Journal of Open Engineering](http://www.tjoe.org) and leading our attempts to modernize academic publishing in engineering
  * Directing operations for [engrXiv, *Engineering Archive*, the eprint server for engineering](http://www.engrxiv.org)
+ * Executive Director of [Open Engineering Inc.](https://www.openengr.com/), nonprofit organization for the promotion of open practices in the engineering field
 
 
 
