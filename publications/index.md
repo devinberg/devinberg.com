@@ -113,9 +113,11 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
+	<li>Berg, D.R., 2019. Impacts of Engineering: An introductory course in engineering featuring social justice. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/mqwdb">10.31224/osf.io/mqwdb</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/mqwdb" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R., 2017. Open in order to open engineering. <i>Authorea Preprints.</i> [Paper: <i><a href="http://doi.org/10.22541/au.151029608.80979987">10.22541/au.151029608.80979987</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.22541/au.151029608.80979987" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R., 2017. Open research, open engineering, and the role of the university in society. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/F83N3">10.31224/osf.io/F83N3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/9VSQ4" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Berg, D.R., 2017. Open research, open engineering, and the role of the university in society. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/F83N3">10.31224/osf.io/F83N3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/F83N3" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. Open publishing in engineering. Editorial in <i>The Journal of Open Engineering.</i> [Paper: <i><a href="http://doi.org/10.21428/12302">10.21428/12302</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/12302" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 </ol>
