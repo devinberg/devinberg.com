@@ -70,5 +70,5 @@ Teaching Assistant, Design and Manufacturing II, January 2010 – May 2010
 </ul>
 
 <h1>Curriculum Vitae</h1>
-The most regularly updated version of my CV can be viewed [here](https://gitlab.com/devinberg/CV/-/jobs/artifacts/master/raw/Berg-CV_public.pdf?job=compile_CV).
+The most regularly updated version of my CV can be downloaded [here](https://gitlab.com/devinberg/CV/-/jobs/artifacts/master/raw/Berg-CV_public.pdf?job=compile_CV).
 <iframe style="width: 730px; height: 925px;" src="http://docs.google.com/gview?url=https://gitlab.com/devinberg/CV/-/jobs/artifacts/master/raw/Berg-CV_public.pdf?job=compile_CV&amp;embedded=true" frameborder="0"></iframe>
