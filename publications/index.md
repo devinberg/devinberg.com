@@ -127,6 +127,10 @@ Below are some of the papers and other artifacts I have published.
 <h3>Other (Posters, Datasets, Code, and Teaching Demos)</h3>
 <ol reversed="">
 	<li>Berg, D.R. and Paulson, N., 2019. Applied research innovation through social networks: The story of a mechanical engineer, a sociologist, and a restaurant. <i>Polytechnic Summit,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.5281/zenodo.3234022">10.5281/zenodo.3234022</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.3234022" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Bauer, A., Borchert, H., and Berg, D.R., 2019. Continuum manipulator applications in manufacturing. <i>Stout Research Day,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.17605/OSF.IO/4MHQU">10.17605/OSF.IO/4MHQU</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/4MHQU" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Kannel, J. and Berg, D.R., 2019. Investigation of candidate materials for a continuum robotic manipulator backbone. <i>Stout Research Day,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.17605/OSF.IO/F26R8">10.17605/OSF.IO/F26R8</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/F26R8" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 
 	<li>Dekarske, J. and Berg, D.R., 2016. Power wheelchair navigation assistance. <i>BMES Annual Meeting.</i> Minneapolis, MN. [Poster: <i><a href="https://doi.org/10.6084/m9.figshare.3983901">10.6084/m9.figshare.3983901</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.3983901" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
