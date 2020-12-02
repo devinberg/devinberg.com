@@ -5,14 +5,10 @@ section: Publications
 ---
 Below are some of the papers and other artifacts I have published.  
 
-<h3>In Progress</h3>
+<!--<h3>In Progress</h3>
 <ol reversed="">
-	<li>Berg, D.R., Li, P.Y., and Erdman, A.G. Selection of artificial muscle actuators for a continuum manipulator. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
-	<li>Berg, D.R. and Li, P.Y. Hydraulic valve for miniature surgical robot applications. [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 
- 	<li>Dekarske, J. and Berg, D.R. Path oriented powered wheelchair navigation assistance. [Preprint: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-</ol>
+</ol>-->
 
 <h3>Journal Articles</h3>
 <ol reversed="">
@@ -115,7 +111,13 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
+	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2020. Selection of artificial muscle actuators for a continuum manipulator. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+
+ 	<li>Dekarske, J. and Berg, D.R., 2019. Path oriented powered wheelchair navigation assistance. <i>TJOE Preprints.</i> [Paper: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R., 2019. Impacts of Engineering: An introductory course in engineering featuring social justice. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/mqwdb">10.31224/osf.io/mqwdb</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/mqwdb" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Berg, D.R. and Li, P.Y., 2018. Hydraulic valve for miniature surgical robot applications. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 	
 	<li>Berg, D.R., 2017. Open in order to open engineering. <i>Authorea Preprints.</i> [Paper: <i><a href="http://doi.org/10.22541/au.151029608.80979987">10.22541/au.151029608.80979987</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.22541/au.151029608.80979987" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
