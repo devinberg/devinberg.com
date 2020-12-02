@@ -164,8 +164,7 @@ Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally inva
 <li><a href="http://orcid.org/0000-0002-1193-3848">ORCiD</a>: Collected works linked by a common research ID.</li>
 <li><a href="https://www.uwstout.edu/directory/bergdev">Faculty Profile</a>: My official faculty profile page.</li>
 <li><a href="http://www.twitter.com/devinberg">Twitter</a>: Used for short-form communications and outreach.</li>   
-<li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>   
-<li><a href="http://plus.google.com/+DevinBergPhD">Google+</a>: Not used very often. Contains a mix of personal and professional.</li> 
+<li><a href="http://www.linkedin.com/in/devinberg">LinkedIn</a>: For connecting with me professionally.</li>    
 </ul>  
 
 <h4>Metrics</h4>
@@ -179,14 +178,14 @@ Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally inva
 <td>
 <h4>Scholarly Output</h4>
 <ul>
-<li><a href="http://figshare.com/authors/Devin%20Berg/412062">Figshare</a>: A collection of my manuscripts, presentations, datasets, posters, figures, and media each with a unique DOI.</li>
-<li><a href="https://speakerdeck.com/devinberg">Speaker Deck</a>: My presentation slides in a format that is easier to view online. Overlap with Figshare.</li>  
+<li><a href="http://figshare.com/authors/Devin%20Berg/412062">Figshare</a>: An archive for presentations, datasets, posters, figures, and media.</li>
+<li><a href="https://speakerdeck.com/devinberg">Speaker Deck</a>: My presentation slides in a format that is easier to view online. Overlap with other archival respositories.</li>  
 <li><a href="https://osf.io/4cdtj/">Open Science Framework</a>: For project working documents and research workflow.</li>   
 <li><a href="http://www.youtube.com/playlist?list=PLxXTFCvC6VNdWRZtOUFjw3xcPd1QtzazT">Youtube</a>: Videos from my research or teaching activities.</li>
 <li><a href="https://github.com/devinberg">GitHub</a>: A repository for various code projects. Some personal some professional.</li>   
 <li><a href="https://peer.asee.org/authors/devin-berg">ASEE PEER</a>: A repository of papers published with the American Society for Engineering Education.</li>   
-<li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for releases of various software type items which are assigned a DOI.</li>
-<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: My research outputs available for download as torrents. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
+<li><a href="https://zenodo.org/search?f=author&p=Berg%2C%20Devin&ln=en">Zenodo</a>: An archive for presentations, datasets, posters, figures, and media.</li>
+<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: Academic materials distributed via the bittorrent protocol. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
 </ul>
 
 <h4>Other</h4>
