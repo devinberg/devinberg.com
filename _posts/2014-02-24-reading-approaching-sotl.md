@@ -1,6 +1,6 @@
 ---
 title: "Reading: Approaching the Scholarship of Teaching and Learning"
-Tags: [SoTL, Teaching, Reading, Education, Engineering Education]
+tags: [SoTL, Teaching, Reading, Education, Engineering Education]
 category: blog
 layout: post
 comments: true
