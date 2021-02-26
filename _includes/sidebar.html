@@ -29,7 +29,8 @@
     </p>
 
     <br/>
-	<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="{{ page.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>
+	
+    {% if page.doi %} <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="{{ page.doi }}" data-hide-no-mentions="true" class="altmetric-embed"></div>{% endif %}
 	
     {% if site.pageviews %} <p style="font-style:italic"> <i class="icon-signal"></i> pageviews: {{ page.pageviews }}</p>{% endif %}
 
