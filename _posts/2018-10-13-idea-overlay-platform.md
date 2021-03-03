@@ -3,7 +3,6 @@ title: "Idea for an Overlay Journal Platform"
 tags: [Open Science, Open Access, Development]
 category: blog
 layout: post
-comments: true
 ---
 
 Something that has been in the back of my mind for a while, an overlay journal platform. Started thinking about this more recently again and had some good discussion on [Scholar.Social](https://scholar.social/@drb/100882764015004813).

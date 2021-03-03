@@ -4,7 +4,6 @@ tags: [design, hydraulics, hydraulic valve, minimally invasive surgery, NOTES, r
 category: preprint
 doi: 10.31224/osf.io/n7ajq
 layout: post
-comments: true
 ---
 
 ## Authors

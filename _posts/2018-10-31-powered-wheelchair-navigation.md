@@ -4,7 +4,6 @@ tags: [assistive technology, powered wheelchair, wheelchair, navigation, Raspber
 category: preprint
 doi: 10.21428/5ac343fc
 layout: post
-comments: true
 ---
 
 ## Authors

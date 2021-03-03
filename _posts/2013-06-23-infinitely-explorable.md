@@ -4,7 +4,6 @@ tags: [LMS, learning management system, software, mechanics, education]
 category: conference
 doi: 10.18260/1-2--22337
 layout: post
-comments: true
 ---
 
 ## Authors

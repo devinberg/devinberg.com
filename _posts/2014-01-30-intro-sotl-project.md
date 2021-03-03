@@ -3,7 +3,6 @@ title: "Introduction to Twitter in the Classroom SoTL Project"
 tags: [SoTL, Teaching, Education, Engineering Education]
 category: blog
 layout: post
-comments: true
 ---
 
 # Background

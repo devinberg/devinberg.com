@@ -4,7 +4,6 @@ tags: [artificial muscle actuators, continuum manipulators, hydraulics, medical 
 category: preprint
 doi: 10.31224/osf.io/YH2K6
 layout: post
-comments: true
 ---
 
 ## Authors

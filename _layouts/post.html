@@ -2,7 +2,6 @@
 layout: default
 top: Blog
 feed: atom.xml
-comments: true
 ---
 
 <div class="row">
@@ -10,6 +9,9 @@ comments: true
         <article>
             {{ content }}
         </article>
+		{% if page.comments %}
+		<div id="comment-section"></div>
+		{% endif %}
     </div>
     <div class="col-md-4">
         <div class="sidebar">
@@ -18,5 +20,16 @@ comments: true
     </div>
 </div>
 
-<script src="https://hypothes.is/embed.js" async></script>
 <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+{% if page.comments %}
+<script src="https://hypothes.is/embed.js" async></script>
+<script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "cactus.chat",
+  siteName: "devinbergcom",
+  commentSectionId: "postcomments"
+})
+</script>
+{% endif %}

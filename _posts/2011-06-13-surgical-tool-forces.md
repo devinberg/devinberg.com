@@ -4,7 +4,6 @@ tags: [force measurement, robotics, surgery, surgical robotics, tool force]
 category: conference
 doi: 10.1115/1.3590369
 layout: post
-comments: true
 ---
 
 ## Authors

@@ -4,7 +4,6 @@ tags: [engineering, open engineering, society, TomorrowsUni]
 category: preprint
 doi: 10.31224/osf.io/F83N3
 layout: post
-comments: true
 ---
 
 ## Authors

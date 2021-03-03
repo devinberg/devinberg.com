@@ -4,7 +4,6 @@ tags: [open engineering, open science]
 category: preprint
 doi: 10.22541/au.151029608.80979987
 layout: post
-comments: true
 ---
 
 ## Authors

@@ -4,7 +4,6 @@ tags: [design, hydraulics, manipulator, surgical robotics]
 category: conference
 doi: 10.1115/DSCC2012-MOVIC2012-8685
 layout: post
-comments: true
 ---
 
 ## Authors

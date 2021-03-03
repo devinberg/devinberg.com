@@ -4,7 +4,6 @@ tags: [open engineering, publishing, open access, open science]
 category: editorial
 doi: 10.21428/12302
 layout: post
-comments: true
 ---
 
 ## Authors

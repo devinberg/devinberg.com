@@ -4,7 +4,6 @@ tags: [Open Peer Review, Social Media, Web 2.0, Open Science, Scholarly Publishi
 category: journal
 doi: 10.12688/f1000research.12037.3
 layout: post
-comments: true
 ---
 
 ## Authors

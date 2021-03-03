@@ -4,7 +4,6 @@ tags: [RESNA, continuum, assistive technology]
 category: conference
 doi: 10.31224/osf.io/sj9w6
 layout: post
-comments: true
 ---
 
 ## Authors

@@ -4,7 +4,6 @@ tags: [K12, medical devices, education, educational game]
 category: conference
 doi: 10.18260/1-2--21424
 layout: post
-comments: true
 ---
 
 ## Authors
