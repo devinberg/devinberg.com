@@ -24,7 +24,7 @@
     {% for tag in page.tags %}
     <!-- http://schema.org/BlogPosting/keywords -->
     <a rel="og:tag" class="tag"
-       href="/tags/#{{ tag | cgi_escape }}">#{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
+       href="/tags/#{{ tag | slugify }}">#{{ tag }}</a>{% unless page.tags.last == tag %}, {% endunless %}
     {% endfor %}
     </p>
 
