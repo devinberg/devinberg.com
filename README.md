@@ -8,9 +8,8 @@ I am very happy for others to use my design as a basis for their own site but PL
 
 Be especially careful with some of the dynamic content and javascript I use on my pages, particularly:
 
-* Disqus comments on blog posts - These are hard coded to my Disqus account. If you just copy and paste my templates I will be the moderator of your blog's comments. You don't want that. If you don't know how to set up your own Disqus account please remove the Javascript from the bottom of the `_includes/disqus.html` file.
+* Cactus.chat comments on blog posts - These are hard coded to my cactus.chat account. If you just copy and paste my templates I will be the moderator of your blog's comments. You don't want that. If you don't know how to set up your own cactus.chat account please remove the code from the bottom of the `_layouts/post.html` file.
 
-* Google analytics - My personal Google analytics code is hard-coded into the `_includes/analytics.html` template which every page inherits from. If you do not remove or change the Javascript at the bottom of this template all your site's traffic will be counted as mine. You don't want that.
 
 Basically, the rules are these:
 
