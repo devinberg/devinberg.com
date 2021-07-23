@@ -1,5 +1,5 @@
 ---
-title: "Hydraulic valve for miniature surgical robot applications"
+title: "A Novel 3D Ring-Based Flapper Valve for Soft Robotic Applications"
 tags: [design, hydraulics, hydraulic valve, minimally invasive surgery, NOTES, robotics, surgical robotics, surgical tools]
 category: preprint
 doi: 10.31224/osf.io/n7ajq
@@ -7,14 +7,14 @@ layout: post
 ---
 
 ## Authors
-Devin R. Berg, Perry Y. Li
+Kelly Low, Devin R. Berg, Perry Y. Li
 
 ## Venue
 engrXiv Preprints
 
 ## Abstract
 
-This paper describes the design and testing of a novel hydraulic control valve for use in the minimally invasive surgical robotic manipulator. The use of hydraulics for surgical robotics opens new possibilities for miniaturization and robustness. However, to enable this, there exists a need for hydraulic components which bridge the size gap between traditional fluidics and microfluidics. This paper provides motivation for the development of a miniature hydraulic valve designed specifically to enable a serpentine style hydraulic surgical manipulator. Included are a description of the various considerations relevant to the valve and its specific application, such as the method of manipulation for the valve, as well as a theoretical valve design and a mathematical description of the operating principles. Two possible methods of valve activation, piezoelectric and electromagnetic, are discussed along with two physical realizations of the valve design are presented which demonstrate the theoretical design. Finally, the results of experimental testing performed on valve prototypes is described to evaluate the design options and help inform the selection of the final configuration.
+In this paper, the design and testing of a novel valve for the intuitive spatial control of soft or continuum manipulators is presented. The design of the valve is based on the style of a hydraulic flapper valve, but with simultaneous control of three pressure feed points which can be used to drive three antagonistically arranged hydraulic actuators for positioning soft robots. The variable control orifices are arranged in a rotationally symmetric radial pattern to allow for an inline mounting configuration of the valve within the body of a manipulator.  Positioning the valve ring at various 3D configurations results in different pressurization of the actuators and corresponding spatial configurations of the manipulator. The design of the valve is suitable for miniaturization and use in applications with size constraints such as small soft manipulators and surgical robotics. Experimental validation showed that the performance of the valve can be reasonably modeled and can effectively drive an antagonistic arrangement of three actuators for soft manipulator control.
 
 # Links
 Preprint: [10.31224/osf.io/n7ajq](https://doi.org/10.31224/osf.io/n7ajq)  
