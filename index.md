@@ -27,8 +27,8 @@ A brief list of my primary activities includes:
 Devin R. Berg  
 **Associate Professor**  
 Mechanical Engineering  
-[Engineering & Technology Department](http://www.uwstout.edu/et)  
-[University of Wisconsin-Stout](http://www.uwstout.edu/)
+[Robert F. Cervenka School of Engineering](https://www.uwstout.edu/academics/colleges-schools/school-of-engineering)  
+[University of Wisconsin-Stout](https://www.uwstout.edu/)
 
 </div> <!-- END col-md-4-->
 </div> <!-- END row-->
@@ -54,7 +54,7 @@ Mechanical Engineering
 <dd><a href="https://www.linkedin.com/in/devinberg">devinberg</a></dd>
 <dt>Address:</dt>
 <dd><address>
-<a href="https://www.google.com/maps/place/807+3rd+St+E,+Menomonie,+WI+54751/@44.8751687,-91.9296328,17z/data=!3m1!4b1!4m5!3m4!1s0x87f87b9f18bc8899:0x5e2fc7b0928c10f!8m2!3d44.875168!4d-91.927444">330 Fryklund Hall</a><br/>
+<a href="https://www.openstreetmap.org/#map=19/44.87530/-91.92753">330 Fryklund Hall</a><br/>
 Menomonie, WI 54751
 </address></dd>
 </dl>
