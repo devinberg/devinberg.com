@@ -12,6 +12,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
+	<li>Low, K., Berg, D.R., and Li, P.Y., 2018. A Novel 3D Ring-Based Flapper Valve for Soft Robotic Applications. <i>Robotics.</i> Vol. 11, No. 1. [Paper: <i><a href="https://doi.org/10.3390/robotics11010002">10.3390/robotics11010002</a></i>] [Preprint: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics11010002" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. Issues of privilege in university service-learning. <i>International Journal for Service Learning in Engineering, Humanitarian Engineering and Social Entrepreneurship.</i> Vol. 14, No. 3. [Paper: <i><a href="https://doi.org/10.24908/ijsle.v14i3.13197">10.24908/ijsle.v14i3.13197</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/ehaux">10.31224/osf.io/ehaux</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.24908/ijsle.v14i3.13197" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R., 2019. Design and preliminary testing of a continuum assistive robotic manipulator. <i>Robotics.</i> Vol. 8, No. 4. [Paper: <i><a href="https://doi.org/10.3390/robotics8040084">10.3390/robotics8040084</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/upk7g">10.31224/osf.io/upk7g</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.3390/robotics8040084" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
@@ -115,9 +117,7 @@ Below are some of the papers and other artifacts I have published.
 
  	<li>Dekarske, J. and Berg, D.R., 2019. Path oriented powered wheelchair navigation assistance. <i>TJOE Preprints.</i> [Paper: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Berg, D.R., 2019. Impacts of Engineering: An introductory course in engineering featuring social justice. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/mqwdb">10.31224/osf.io/mqwdb</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/mqwdb" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
-	<li>Low, K., Berg, D.R., and Li, P.Y., 2018. A Novel 3D Ring-Based Flapper Valve for Soft Robotic Applications. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/N7AJQ">10.31224/osf.io/N7AJQ</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/N7AJQ" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
+	<li>Berg, D.R., 2019. Impacts of Engineering: An introductory course in engineering featuring social justice. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/mqwdb">10.31224/osf.io/mqwdb</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/mqwdb" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 	
 	<li>Berg, D.R., 2017. Open in order to open engineering. <i>Authorea Preprints.</i> [Paper: <i><a href="http://doi.org/10.22541/au.151029608.80979987">10.22541/au.151029608.80979987</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.22541/au.151029608.80979987" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
