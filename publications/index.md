@@ -94,6 +94,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Invited Talks</h3>
 <ol reversed="">
+	<li>Berg, D.R., 2021. Active learning for student engagement. <i>University of Minnesota Mechanical Engineering Department,</i> Minneapolis, MN.</li>
+	
 	<li>Berg, D.R., 2018. Robot integrations in the home and workplace from an assistive technology perspective. <i>3M Tech Forum,</i> Maplewood, MN. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.6852926.v1">10.6084/m9.figshare.6852926.v1</a>, <a href="https://speakerdeck.com/devinberg/robot-integrations-in-the-home-and-workplace-from-an-assistive-technology-perspective">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.6852926" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R., 2018. Open and engineering. <i>Open Access Evening, McMaster University,</i> Hamilton, Ontario. [Presentation: <i><a href="https://doi.org/10.6084/m9.figshare.6184655.v1">10.6084/m9.figshare.6184655.v1</a>, <a href="https://speakerdeck.com/devinberg/open-and-engineering">view</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.6184655" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
