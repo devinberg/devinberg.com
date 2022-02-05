@@ -115,6 +115,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
+	<li>Berg, D.R. and Schmitz, A., 2022. Work-in-Progress: Polytechnic Perceptions of the Engineering Classroom Experience. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/2124">10.31224/2124</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/2124" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2020. Selection of artificial muscle actuators for a continuum manipulator. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://dx.doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 
  	<li>Dekarske, J. and Berg, D.R., 2019. Path oriented powered wheelchair navigation assistance. <i>TJOE Preprints.</i> [Paper: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
