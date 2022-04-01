@@ -137,8 +137,3 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
-
-
-<h1>Work Travel Mapped</h1>
-<iframe src="https://www.google.com/maps/d/embed?mid=1CE8QEHcXoDB7x7xEa3sG6wUwEDU" width="640" height="480"></iframe>
-
