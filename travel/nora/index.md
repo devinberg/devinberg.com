@@ -31,6 +31,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-GA",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-FL",
 		"showAsSelected": true
 	},
@@ -39,11 +43,31 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-KY",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-MN",
 		"showAsSelected": true
 	},
 	{
+		"id": "US-NC",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-OR",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-SC",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-TN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-VA",
 		"showAsSelected": true
 	},
 	{
