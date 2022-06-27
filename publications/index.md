@@ -45,6 +45,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Conference Papers and Presentations</h3>
 <ol reversed="">
+	<li>Berg, D.R. and Schmitz, A., 2022. Work-in-Progress: Polytechnic perceptions of the engineering classroom experience. In <i>Proceedings of the 2022 ASEE Annual Conference,</i> Minneapolis, MN. [Preprint: <i><a href="https://doi.org/10.31224/2124">10.31224/2124</a></i>] [Presentation: <i><a href="https://doi.org/10.5281/zenodo.6762209">10.5281/zenodo.6762209</a>, <a href="https://speakerdeck.com/devinberg/work-in-progress-polytechnic-perceptions-of-the-engineering-classroom-experience">view</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/2124" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R., Lee, T., and Buchanan, E., 2020. Student perceptions of first-year engineering justice curriculum. In <i>Proceedings of the 2020 ASEE Annual Conference.</i> [Paper: <i><a href="https://doi.org/10.18260/1-2--35231">10.18260/1-2--35231</a></i>] [Preprint: <i><a href="https://doi.org/10.31224/osf.io/3qeyc">10.31224/osf.io/3qeyc</a></i>] [Presentation: <i><a href="https://doi.org/10.5281/zenodo.3908536">10.5281/zenodo.3908536</a>, <a href="https://speakerdeck.com/devinberg/student-perceptions-of-first-year-engineering-justice-curriculum">view</a>, <a href="https://www.youtube.com/watch?v=YDkJFsrpPpk">video</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.18260/1-2--35231" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. Impacts of engineering justice curriculum: A survey of student attitudes. In <i>Proceedings of the 2019 ASEE Annual Conference,</i> Tampa, FL. [Paper: <i><a href="https://doi.org/10.18260/1-2--32288">10.18260/1-2--32288</a></i>] [Preprint: <i><a href="https://doi.org/10.31224/osf.io/v83k5">10.31224/osf.io/v83k5</a></i>] [Poster: <i><a href="https://doi.org/10.17605/OSF.IO/EM6W5">10.17605/OSF.IO/EM6W5</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.18260/1-2--32288" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
@@ -115,8 +117,6 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
-	<li>Berg, D.R. and Schmitz, A., 2022. Work-in-Progress: Polytechnic Perceptions of the Engineering Classroom Experience. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/2124">10.31224/2124</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/2124" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
-	
 	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2020. Selection of artificial muscle actuators for a continuum manipulator. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/YH2K6">10.31224/osf.io/YH2K6</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/YH2K6" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 
  	<li>Dekarske, J. and Berg, D.R., 2019. Path oriented powered wheelchair navigation assistance. <i>TJOE Preprints.</i> [Paper: <i><a href="https://doi.org/10.21428/5ac343fc">10.21428/5ac343fc</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/5ac343fc" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
@@ -132,6 +132,8 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Other (Posters, Datasets, Code, and Teaching Demos)</h3>
 <ol reversed="">
+	<li>Berg, D.R., 2022. Engineering Archive progress update and server news. In <i>Proceedings of the 2022 ASEE Annual Conference,</i> Minneapolis, MN. [Presentation: <i><a href="https://doi.org/10.5281/zenodo.6762167">10.5281/zenodo.6762167</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.6762167" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
 	<li>Berg, D.R. and Paulson, N., 2019. Applied research innovation through social networks: The story of a mechanical engineer, a sociologist, and a restaurant. <i>Polytechnic Summit,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.5281/zenodo.3234022">10.5281/zenodo.3234022</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.3234022" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Bauer, A., Borchert, H., and Berg, D.R., 2019. Continuum manipulator applications in manufacturing. <i>Stout Research Day,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.17605/OSF.IO/4MHQU">10.17605/OSF.IO/4MHQU</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.17605/OSF.IO/4MHQU" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
