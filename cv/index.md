@@ -26,8 +26,9 @@ Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD
 
 <h1>Experience</h1>  
 <b>Engineering and Technology Department</b>, University of Wisconsin - Stout  
-Associate Professor, June 2016 - present  
-Assistant Professor, August 2012 - May 2016  
+Professor, August 2022 - present  
+Associate Professor, August 2016 - July 2022  
+Assistant Professor, August 2012 - July 2016  
 
 <b>Medical Devices Center</b>, University of Minnesota – Twin Cities  
 Lab Supervisor, July 2011 – August 2012  
