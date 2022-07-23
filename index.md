@@ -25,7 +25,7 @@ A brief list of my primary activities includes:
 <img class='inset right' src='/assets/img/Berg_4x6.JPG' title='Devin R. Berg' alt='Devin R. Berg' width='180px' />  
 
 Devin R. Berg  
-**Associate Professor**  
+**Professor**  
 Mechanical Engineering  
 [Robert F. Cervenka School of Engineering](https://www.uwstout.edu/academics/colleges-schools/school-of-engineering)  
 [University of Wisconsin-Stout](https://www.uwstout.edu/)
