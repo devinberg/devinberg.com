@@ -6,6 +6,8 @@ section: In the news
 
 <strong>Press, news, and blog coverage</strong>  
 
+26 July 2022: "Board of Regents approves promotions, tenure for 32 faculty members" <a href="https://archive.ph/m5JrJ" target="_blank">UW-Stout Press Release</a>
+
 20 July 2022: "LAKES REU researchers combine interdisciplinary knowledge to analyze health of Red Cedar watershed" <a href="https://web.archive.org/web/20220720224636/https://www.uwstout.edu/about-us/news-center/lakes-reu-researchers-combine-interdisciplinary-knowledge-analyze-health-red-cedar-watershed" target="_blank">UW-Stout Press Release</a>
 
 30 November 2020: "Professor studies water storage possibilities for Peruvian organic farm women" <a href="https://web.archive.org/web/20201202164827/https://www.uwstout.edu/about-us/news-center/professor-studies-water-storage-possibilities-peruvian-organic-farm-women" target="_blank">UW-Stout Press Release</a>
