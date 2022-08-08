@@ -5,6 +5,7 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>  
+8 August 2022: "LAKES REU Students Explore Health of Red Cedar Watershed" <a href="https://web.archive.org/web/20220808190016/https://freshwater.wisconsin.edu/lakes-rei-students-explore-health-of-red-cedar-watershed/">Freshwater Collaborative of Wisconsin</a>
 
 26 July 2022: "Board of Regents approves promotions, tenure for 32 faculty members" <a href="https://archive.ph/m5JrJ" target="_blank">UW-Stout Press Release</a>
 
