@@ -217,6 +217,18 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "DK",
+		"showAsSelected": true
+	},
+	{
+		"id": "NO",
+		"showAsSelected": true
+	},
+	{
+		"id": "SE",
+		"showAsSelected": true
+	},
+	{
 		"id": "CL",
 		"showAsSelected": true
 	},

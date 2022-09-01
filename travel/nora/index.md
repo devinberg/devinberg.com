@@ -145,6 +145,22 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "DK",
+		"showAsSelected": true
+	},
+	{
+		"id": "NO",
+		"showAsSelected": true
+	},
+	{
+		"id": "SE",
+		"showAsSelected": true
+	},
+	{
+		"id": "IS",
+		"showAsSelected": true
+	},
+	{
 		"id": "PE",
 		"showAsSelected": true
 	}
