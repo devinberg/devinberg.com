@@ -132,7 +132,7 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Other (Posters, Datasets, Code, and Teaching Demos)</h3>
 <ol reversed="">
-	<li>Chundu, S., Lundquist, C., and Berg, D.R., 2022. vMenomiNet: A prototype network for real-time public lake data. In <i>LAKES Public Forum,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.5281/zenodo.6977169">10.5281/zenodo.6977169</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.6977169" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Chundu, S., Lundquist, C., and Berg, D.R., 2022. MenomiNet: A prototype network for real-time public lake data. In <i>LAKES Public Forum,</i> Menomonie, WI. [Poster: <i><a href="https://doi.org/10.5281/zenodo.6977169">10.5281/zenodo.6977169</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.6977169" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 
 	<li>Berg, D.R., 2022. Engineering Archive progress update and server news. In <i>Proceedings of the 2022 ASEE Annual Conference,</i> Minneapolis, MN. [Presentation: <i><a href="https://doi.org/10.5281/zenodo.6762167">10.5281/zenodo.6762167</a></i>]<span data-badge-popover="right" data-badge-type="4" data-doi="10.5281/zenodo.6762167" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
