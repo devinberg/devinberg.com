@@ -103,6 +103,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-NE",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-NH",
 		"showAsSelected": true
 	},
