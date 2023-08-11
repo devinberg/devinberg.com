@@ -151,6 +151,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-VT",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-WA",
 		"showAsSelected": true
 	},
