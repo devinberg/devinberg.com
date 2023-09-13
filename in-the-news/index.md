@@ -5,6 +5,10 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>  
+11 September 2023: "UW-Stout professors to advance research in sustainability in art, regional water issues, trauma writing" <a href="https://web.archive.org/web/20230913190744/https://chippewa.com/news/community/dunnconnect/uw-stout-professors-to-advance-research-in-sustainability-in-art-regional-water-issues-trauma-writing/article_ca12b28a-4c4a-11ee-9cd9-576f8b1bdabf.html">The Dunn County News</a>
+
+6 April 2023: "University of Wisconsin Stout: More than 50 UW-Stout students to present research at national conference" <a href="https://web.archive.org/web/20230913191632/https://www.wisbusiness.com/2023/university-of-wisconsin-stout-more-than-50-uw-stout-students-to-present-research-at-national-conference/">WisBusiness</a>
+
 8 August 2022: "LAKES REU Students Explore Health of Red Cedar Watershed" <a href="https://web.archive.org/web/20220808190016/https://freshwater.wisconsin.edu/lakes-rei-students-explore-health-of-red-cedar-watershed/">Freshwater Collaborative of Wisconsin</a>
 
 26 July 2022: "Board of Regents approves promotions, tenure for 32 faculty members" <a href="https://archive.ph/m5JrJ" target="_blank">UW-Stout Press Release</a>
