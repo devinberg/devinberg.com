@@ -7,7 +7,7 @@ section: Home
 <div class="row">
 <div class="col-md-6">
 
-I am an associate professor at the University of Wisconsin-Stout. My main activities include conducting research in medical devices, robotics, and engineering education as well as teaching the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer. I am the director of two organizations focused on providing greater public access to engineering knowledge and for the promotion of open practices in the engineering field.
+I am a professor of mechanical engineering at the University of Wisconsin-Stout. My main interests include sustainable agriculture, robotics, and engineering education as well as teaching engineering mechanics, the engineering design process, engineering ethics, social justice, and other topics relevant to the practicing engineer. I am the director of two organizations focused on providing greater public access to engineering knowledge and for the promotion of open practices in the engineering field.
 
 A brief list of my primary activities includes:
 
@@ -44,8 +44,6 @@ Mechanical Engineering
 <dd>715-232-1133</dd>
 <dt>Faculty Profile:</dt>
 <dd><a href="https://www.uwstout.edu/directory/bergdev">bergdev</a></dd>
-<dt>Twitter:</dt>
-<dd><a href="https://twitter.com/devinberg">@devinberg</a></dd>
 <dt>Mastodon:</dt>
 <dd><a rel="me" href="https://scholar.social/@drb">@drb@scholar.social</a>
 </dd><dt>GitHub:</dt>
