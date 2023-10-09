@@ -135,6 +135,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-SD",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-TN",
 		"showAsSelected": true
 	},
