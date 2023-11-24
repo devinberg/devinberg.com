@@ -27,6 +27,10 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "US-AZ",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-CA",
 		"showAsSelected": true
 	},
@@ -63,6 +67,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-NV",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-NY",
 		"showAsSelected": true
 	},
@@ -72,6 +80,10 @@ areas :
 	},
 	{
 		"id": "US-TN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-UT",
 		"showAsSelected": true
 	},
 	{
