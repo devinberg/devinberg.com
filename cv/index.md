@@ -15,7 +15,7 @@ University of Minnesota - Twin Cities, Advisor: Perry Y. Li, PhD
 University of Wisconsin - Madison, Graduated with Honors  
 <h1>Dissertation</h1>  
 <b>University of Minnesota - Twin Cities</b>, Minneapolis, Minnesota  
-September 2013, <a href="https://s3.amazonaws.com/drb_website_storage/devinberg.com/DevinBerg_dissertation2013s.pdf">Download</a>  
+September 2013, <a href="https://doi.org/10.6084/m9.figshare.963287.v1">Download</a>  
 Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD  
 <ul>
 	<li>Researched and designed a novel robotic, hydraulic, multi-articulated surgical platform for use with various forms of surgical procedures.</li>
