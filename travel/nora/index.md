@@ -55,6 +55,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-MI",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-MN",
 		"showAsSelected": true
 	},
