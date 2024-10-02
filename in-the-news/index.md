@@ -5,6 +5,8 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>  
+27 September 2024: "Revved up: Professorship brings Indian Motorcycle collaboration into lab" <a href="https://web.archive.org/web/20240930150922/https://www.uwstout.edu/about-us/news-center/revved-professorship-brings-indian-motorcycle-collaboration-lab">UW-Stout Press Release</a>
+
 23 July 2024: "Students from across country address water quality issues in Red Cedar watershed with UW-Stout mentors" <a href="https://web.archive.org/web/20240731144014/https://715newsroom.com/2024/07/23/students-from-across-country-address-water-quality-issues-in-red-cedar-watershed/">The 715 Newsroom</a>
 
 11 September 2023: "UW-Stout professors to advance research in sustainability in art, regional water issues, trauma writing" <a href="https://web.archive.org/web/20230913190744/https://chippewa.com/news/community/dunnconnect/uw-stout-professors-to-advance-research-in-sustainability-in-art-regional-water-issues-trauma-writing/article_ca12b28a-4c4a-11ee-9cd9-576f8b1bdabf.html">The Dunn County News</a>
