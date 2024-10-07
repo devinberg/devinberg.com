@@ -5,7 +5,7 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>  
-27 September 2024: "Revved up: Professorship brings Indian Motorcycle collaboration into lab" <a href="https://web.archive.org/web/20240930150922/https://www.uwstout.edu/about-us/news-center/revved-professorship-brings-indian-motorcycle-collaboration-lab">UW-Stout Press Release</a>
+3 October 2024: "Start your engines: Stout receives motorcycle engine donation for engineer lab opportunity" <a href="https://web.archive.org/web/20241007160006/https://www.leadertelegram.com/news/local/start-your-engines-stout-receives-motorcycle-engine-donation-for-engineer-lab-opportunity/article_67973fec-81cb-11ef-9b91-174fbb5628d3.html">Leader Telegram</a>
 
 23 July 2024: "Students from across country address water quality issues in Red Cedar watershed with UW-Stout mentors" <a href="https://web.archive.org/web/20240731144014/https://715newsroom.com/2024/07/23/students-from-across-country-address-water-quality-issues-in-red-cedar-watershed/">The 715 Newsroom</a>
 
