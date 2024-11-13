@@ -13,7 +13,7 @@ author:
     name : Devin R. Berg
     email : devinberg@gmail.com
     github : devinberg
-    twitter : devinberg
+    mastodon : scholar.social/@drb
 
 kramdown:
     parse_block_html: true

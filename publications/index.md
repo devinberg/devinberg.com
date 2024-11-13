@@ -207,7 +207,7 @@ Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally inva
 <li><a href="https://github.com/devinberg">GitHub</a>: A repository for various code projects. Some personal some professional.</li>   
 <li><a href="https://peer.asee.org/authors/devin-berg">ASEE PEER</a>: A repository of papers published with the American Society for Engineering Education.</li>   
 <li><a href="https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Berg%2C%20Devin%20R.%22&l=list&p=1&s=10&sort=bestmatch">Zenodo</a>: An archive for presentations, datasets, posters, figures, and media.</li>
-<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: Academic materials distributed via the bittorrent protocol. Note: The torrent links below are magnet links and require that you have a BitTorrent client installed to work. I recommend <a href="https://transmissionbt.com/">Transmission</a> or <a href="https://www.tixati.com/download/">Tixati</a>.</li>
+<li><a href="http://academictorrents.com/userdetails.php?id=5591">Academic Torrents</a>: Academic materials distributed via the bittorrent protocol. 
 </ul>
 
 <h4>Other</h4>
