@@ -138,6 +138,13 @@ Below are some of the papers and other artifacts I have published.
 	<li>Berg, D.R., 2017. Open research, open engineering, and the role of the university in society. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/F83N3">10.31224/osf.io/F83N3</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/F83N3" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
 	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. Open publishing in engineering. Editorial in <i>The Journal of Open Engineering.</i> [Paper: <i><a href="http://doi.org/10.21428/12302">10.21428/12302</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.21428/12302" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	
+	<li>Berg, D.R., 2011. Tissue Mechanics as a Predictor for Saccular Aneurysm Rupture. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/ect3w">10.31224/osf.io/ect3w</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/ect3w" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
+	
+	<li>Berg, D.R., 2011. Desktop Load/Deflection Measurement. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/6t8bs">10.31224/osf.io/6t8bs</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/6t8bs" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
+	
+	<li>Berg, D.R., 2009. Multi-port Solution For Efficient, Low-cost Optical Switches. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/657pb">10.31224/osf.io/657pb</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/657pb" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
+
 </ol>
 
 <h3>Other (Posters, Datasets, Code, and Teaching Demos)</h3>
