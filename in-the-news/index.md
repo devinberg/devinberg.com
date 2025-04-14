@@ -5,6 +5,8 @@ section: In the news
 ---
 
 <strong>Press, news, and blog coverage</strong>  
+10 April 2025: "Going national: UW-Stout undergraduates’ research on robotics, animation, more presented at national conference" <a href="https://web.archive.org/web/20250414151419/https://www.uwstout.edu/about-us/news-center/going-national-uw-stout-undergraduates-research-robotics-animation-more-presented-national">UW-Stout Press Release</a>
+
 3 October 2024: "Start your engines: Stout receives motorcycle engine donation for engineer lab opportunity" <a href="https://web.archive.org/web/20241007160006/https://www.leadertelegram.com/news/local/start-your-engines-stout-receives-motorcycle-engine-donation-for-engineer-lab-opportunity/article_67973fec-81cb-11ef-9b91-174fbb5628d3.html">Leader Telegram</a>
 
 23 July 2024: "Students from across country address water quality issues in Red Cedar watershed with UW-Stout mentors" <a href="https://web.archive.org/web/20240731144014/https://715newsroom.com/2024/07/23/students-from-across-country-address-water-quality-issues-in-red-cedar-watershed/">The 715 Newsroom</a>
