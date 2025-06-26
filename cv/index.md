@@ -28,7 +28,17 @@ Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD
 <b>Engineering and Technology Department</b>, University of Wisconsin - Stout  
 Professor, August 2022 - present  
 Associate Professor, August 2016 - July 2022  
+<ul>
+	<li>Published 15 manuscripts published in peer-reviewed venues, conference proceedings and journals.</li>
+	<li>Developed five new mechanical engineering courses.</li>
+	<li>Supervised 24 undergraduate engineering research students supported by the National Science Foundation.</li>
+</ul>
 Assistant Professor, August 2012 - July 2016  
+<ul>
+	<li>Successfully conducted research activities supported by nearly one million dollars in National Science Foundation funding and an additional thirty-three thousand dollars in internal grant support.</li>
+	<li>Authored twelve peer reviewed conference papers and three journal papers.</li>
+	<li>Recognized for my teaching performance, receiving the ASEE Ferdinand P. Beer and E. Russell Johnston Jr. Outstanding New Mechanics Educator Award.</li>
+</ul>
 
 <b>Medical Devices Center</b>, University of Minnesota – Twin Cities  
 Lab Supervisor, July 2011 – August 2012  
