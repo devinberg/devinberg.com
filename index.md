@@ -65,9 +65,8 @@ Menomonie, WI 54751
 </div> <!-- END row-->
 
 
-## Currently Teaching
+## Most Often Teaching
 
-**Impacts of Engineering** (ETECH-100)  
 **Machine Component Design** (ME-342)  
 **Dynamics** (ENGR-292)
 
