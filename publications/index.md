@@ -109,7 +109,7 @@ Below are some of the papers and other artifacts I have published.
 	
  	<li>Berg, D.R., Carlson, A., Durfee, W.K., Sweet, R.M., and Reihsen, T., 2011. Low-cost, take-home, beating heart simulator for health-care education. In <i>Proceedings of Medicine Meets Virtual Reality 18,</i> Newport Beach, CA. [Paper: <i><a href="http://doi.org/10.3233/978-1-60750-706-2-57">10.3233/978-1-60750-706-2-57</a></i>] [Preprint: <i><a href="http://doi.org/10.31224/osf.io/5hz2v">10.31224/osf.io/5hz2v</a></i>] [Poster: <i><a href="http://doi.org/10.6084/m9.figshare.708877">10.6084/m9.figshare.708877</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.6084/m9.figshare.708877" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
 	
-	<li>Liu, Z.G., Vasys, V.N., Swor, T.A., Berg, D.R., and Kittelson, D.B., 2007. Effects of fuel sulfur content and dilution conditions on engine PM emissions under transient conditions. In <i>Proceedings of the 20th Annual Conference and Exposition of the American Filtration and Separations Society,</i> Orlando, FL. [Preprint: <i><a href="https://doi.org/10.31224/osf.io/w4a9y">10.31224/osf.io/w4a9y</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/w4a9y" data-hide-no-mentions="true" class="altmetric-embed"></span></li>
+	<li>Liu, Z.G., Vasys, V.N., Swor, T.A., Berg, D.R., and Kittelson, D.B., 2007. <a href="{% post_url 2007-03-26-effects-fuel-sulfur %}">Effects of fuel sulfur content and dilution conditions on engine PM emissions under transient conditions. </a></li>
 </ol>
 
 <h3>Invited Talks</h3>
