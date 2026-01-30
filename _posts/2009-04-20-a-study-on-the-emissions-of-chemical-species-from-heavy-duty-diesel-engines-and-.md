@@ -1,6 +1,6 @@
 ---
 title: "A study on the emissions of chemical species from heavy-duty diesel engines and the effects of modern aftertreatment technology"
-tags: [Diesel / compression ignition engines, Particulate matter (PM), Diesel fuels, Chemicals, Gases, Optimization, Regulations]
+tags: [Diesel engines, compression ignition engines, Particulate matter (PM), Diesel fuels, Chemicals, Gases, Optimization, Regulations]
 category: journal
 doi: 10.4271/2009-01-1084
 layout: post
