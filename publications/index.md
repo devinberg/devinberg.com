@@ -210,7 +210,7 @@ Berg, D.R., 2013. Design of a hydraulic dexterous manipulator for minimally inva
 <ul>
 <li><a href="http://scholar.google.com/citations?user=coPlcTkAAAAJ&hl=en">Google Scholar Citations</a>: An automatically generated list of my publications and their citations.</li>   
 <li><a href="https://impactstory.org/u/0000-0002-1193-3848">Impactstory</a>: Altmetrics.</li>
-<li><a href="https://scholia.toolforge.org/author/Q47008279">Scholia</a>: Built on Wikidata.</li>
+<li><a href="https://qlever.scholia.wiki/author/Q47008279">Scholia</a>: Built on Wikidata.</li>
 </ul>
 </td>
 
