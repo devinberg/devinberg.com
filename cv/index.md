@@ -16,8 +16,9 @@ Associate Professor, August 2016 - July 2022
 Assistant Professor, August 2012 - July 2016  
 <ul>
 	<li>Successfully conducted research activities supported by nearly one million dollars in National Science Foundation funding and an additional thirty-three thousand dollars in internal grant support.</li>
-	<li>Authored twelve peer reviewed conference papers and three journal papers.</li>
+	<li>Authored 12 peer reviewed conference papers and three journal papers.</li>
 	<li>Recognized for my teaching performance, receiving the ASEE Ferdinand P. Beer and E. Russell Johnston Jr. Outstanding New Mechanics Educator Award.</li>
+	<li>Developed and initiated the BS Mechanical Engineering program as a new curricular offering.</li>
 </ul>
 
 <b>Medical Devices Center</b>, University of Minnesota – Twin Cities  
