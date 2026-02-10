@@ -4,26 +4,6 @@ title: CV
 section: CV
 ---
 
-<h1>Education</h1>
-<b>PhD Mechanical Engineering</b> 2013  
-University of Minnesota - Twin Cities, Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD
-
-<b>MS Mechanical Engineering, minor in Biomedical Engineering</b> February 2011  
-University of Minnesota - Twin Cities, Advisor: Perry Y. Li, PhD
-
-<b>BS Mechanical Engineering</b> May 2008  
-University of Wisconsin - Madison, Graduated with Honors  
-<h1>Dissertation</h1>  
-<b>University of Minnesota - Twin Cities</b>, Minneapolis, Minnesota  
-September 2013, <a href="https://doi.org/10.6084/m9.figshare.963287.v1">Download</a>  
-Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD  
-<ul>
-	<li>Researched and designed a novel robotic, hydraulic, multi-articulated surgical platform for use with various forms of surgical procedures.</li>
-	<li>Designed a novel hydraulic valve capable of low-flow rate, high-pressure operation within restrictive size constraints.</li>
-	<li>Planned and fabricated prototypes for various components of the proposed surgical platform for validation and testing design effectiveness.</li>
-	<li>Developed analytical and numerical models to describe system kinematics and test operation.</li>
-</ul>
-
 <h1>Experience</h1>  
 <b>Engineering and Technology Department</b>, University of Wisconsin - Stout  
 Professor, August 2022 - present  
@@ -78,6 +58,26 @@ Teaching Assistant, Design and Manufacturing II, January 2010 – May 2010
 	<li>Led a discussion section of approximately 50 students weekly.</li>
 	<li>Lectured on topics including graphical and analytical synthesis of mechanisms, mechanism analysis, machine component selection, and kinematics.</li>
 	<li>Mentored student groups in the design and analysis of mechanism based projects.</li>
+</ul>
+
+<h1>Education</h1>
+<b>PhD Mechanical Engineering</b> 2013  
+University of Minnesota - Twin Cities, Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD
+
+<b>MS Mechanical Engineering, minor in Biomedical Engineering</b> February 2011  
+University of Minnesota - Twin Cities, Advisor: Perry Y. Li, PhD
+
+<b>BS Mechanical Engineering</b> May 2008  
+University of Wisconsin - Madison, Graduated with Honors  
+<h1>Dissertation</h1>  
+<b>University of Minnesota - Twin Cities</b>, Minneapolis, Minnesota  
+September 2013, <a href="https://doi.org/10.6084/m9.figshare.963287.v1">Download</a>  
+Advisors: Perry Y. Li, PhD and Arthur G. Erdman, PhD  
+<ul>
+	<li>Researched and designed a novel robotic, hydraulic, multi-articulated surgical platform for use with various forms of surgical procedures.</li>
+	<li>Designed a novel hydraulic valve capable of low-flow rate, high-pressure operation within restrictive size constraints.</li>
+	<li>Planned and fabricated prototypes for various components of the proposed surgical platform for validation and testing design effectiveness.</li>
+	<li>Developed analytical and numerical models to describe system kinematics and test operation.</li>
 </ul>
 
 <h1>Curriculum Vitae</h1>
