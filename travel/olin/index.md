@@ -27,6 +27,10 @@ getAreasFromMap : true,
 areas :
 [
 	{
+		"id": "US-AR",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-AZ",
 		"showAsSelected": true
 	},
@@ -55,7 +59,15 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-KA",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-KY",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-LA",
 		"showAsSelected": true
 	},
 	{
@@ -64,6 +76,10 @@ areas :
 	},
 	{
 		"id": "US-MN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-MO",
 		"showAsSelected": true
 	},
 	{
@@ -87,7 +103,19 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-OK",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-SC",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-TN",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-TX",
 		"showAsSelected": true
 	},
 	{
