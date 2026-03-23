@@ -59,7 +59,7 @@ areas :
 		"showAsSelected": true
 	},
 	{
-		"id": "US-KA",
+		"id": "US-KS",
 		"showAsSelected": true
 	},
 	{
