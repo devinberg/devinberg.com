@@ -12,100 +12,100 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Journal Articles</h3>
 <ol reversed="">
-	<li>Low, K., Berg, D.R., and Li, P.Y., 2022. <a href="% post_url 2021-12-22-a-novel-3d-ring-based-flapper-valve-for-soft-robotic-applications %}">A Novel 3D Ring-Based Flapper Valve for Soft Robotic Applications.</a></li>
+	<li>Low, K., Berg, D.R., and Li, P.Y., 2022. <a href="{% post_url 2021-12-22-a-novel-3d-ring-based-flapper-valve-for-soft-robotic-applications %}">A Novel 3D Ring-Based Flapper Valve for Soft Robotic Applications.</a></li>
 	
-	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="% post_url 2019-11-25-issues-of-privilege-in-university-service-learning %}">Issues of privilege in university service-learning.</a></li>
+	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="{% post_url 2019-11-25-issues-of-privilege-in-university-service-learning %}">Issues of privilege in university service-learning.</a></li>
 	
-	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R., 2019. <a href="% post_url 2019-09-26-design-and-preliminary-testing-of-a-continuum-assistive-robotic-manipulator %}">Design and preliminary testing of a continuum assistive robotic manipulator.</a></li>
+	<li>Coulson, R., Robinson, M., Kirkpatrick, M., and Berg, D.R., 2019. <a href="{% post_url 2019-09-26-design-and-preliminary-testing-of-a-continuum-assistive-robotic-manipulator %}">Design and preliminary testing of a continuum assistive robotic manipulator.</a></li>
 	
-	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. <a href="% post_url 2018-12-11-the-principles-of-tomorrow-s-university %}">The principles of tomorrow's university.</a></li>
+	<li>Katz, D.S., Allen, G., Barba, L.A., Berg, D.R. et al., 2018. <a href="{% post_url 2018-12-11-the-principles-of-tomorrow-s-university %}">The principles of tomorrow's university.</a></li>
 	
-	<li>Berg, D.R. and Niemeyer, K.E., 2018. <a href="% post_url 2018-10-11-the-case-for-openness-in-engineering-research %}">The case for openness in engineering research.</a></li>
+	<li>Berg, D.R. and Niemeyer, K.E., 2018. <a href="{% post_url 2018-10-11-the-case-for-openness-in-engineering-research %}">The case for openness in engineering research.</a></li>
 	
-	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. <a href="% post_url 2017-11-29-a-multi-disciplinary-perspective-on-emergent-and-future-innovations-in-peer-revi %}">A multi-disciplinary perspective on emergent and future innovations in peer review.</a></li>
+	<li>Tennant, J.P., Dugan, J.M., ..., Berg, D.R., et al., 2017. <a href="{% post_url 2017-11-29-a-multi-disciplinary-perspective-on-emergent-and-future-innovations-in-peer-revi %}">A multi-disciplinary perspective on emergent and future innovations in peer review.</a></li>
 	
- 	<li>Berg, D.R., Lee, T., and Buchanan, E., 2016. <a href="% post_url 2016-03-30-a-methodology-for-exploring-documenting-and-improving-humanitarian-service-learn %}">A methodology for exploring, documenting, and improving humanitarian service learning in the university.</a></li>
+ 	<li>Berg, D.R., Lee, T., and Buchanan, E., 2016. <a href="{% post_url 2016-03-30-a-methodology-for-exploring-documenting-and-improving-humanitarian-service-learn %}">A methodology for exploring, documenting, and improving humanitarian service learning in the university.</a></li>
 	
- 	<li>Berg, D.R., 2015. <a href="% post_url 2015-12-30-twitter-in-the-engineering-classroom %}">Twitter in the engineering classroom.</a></li>
+ 	<li>Berg, D.R., 2015. <a href="{% post_url 2015-12-30-twitter-in-the-engineering-classroom %}">Twitter in the engineering classroom.</a></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., Vasys, V.N., Dettmann, M.E., Zielinska, B., and Schauer, J.J., 2010. <a href="% post_url 2009-11-23-analysis-of-c1-c2-and-c10-through-c33-particle-phase-and-semi-volatile-organic-c %}">Analysis of C<sub>1</sub>, C<sub>2</sub>, and C<sub>10</sub> through C<sub>33</sub> particle-phase and semi-volatile organic compound emissions from heavy-duty diesel engines.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., Vasys, V.N., Dettmann, M.E., Zielinska, B., and Schauer, J.J., 2010. <a href="{% post_url 2009-11-23-analysis-of-c1-c2-and-c10-through-c33-particle-phase-and-semi-volatile-organic-c %}">Analysis of C<sub>1</sub>, C<sub>2</sub>, and C<sub>10</sub> through C<sub>33</sub> particle-phase and semi-volatile organic compound emissions from heavy-duty diesel engines.</a></li>
  	
- 	<li>Liu, Z.G., Berg, D.R., Swor, T.A., Schauer, J.J., and Zielinska, B., 2009. <a href="% post_url 2009-04-20-a-study-on-the-emissions-of-chemical-species-from-heavy-duty-diesel-engines-and- %}">A study on the emissions of chemical species from heavy-duty diesel engines and the effects of modern aftertreatment technology.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., Swor, T.A., Schauer, J.J., and Zielinska, B., 2009. <a href="{% post_url 2009-04-20-a-study-on-the-emissions-of-chemical-species-from-heavy-duty-diesel-engines-and- %}">A study on the emissions of chemical species from heavy-duty diesel engines and the effects of modern aftertreatment technology.</a></li>
 	
- 	<li>Schmidt, J., Berg, D.R., Ploeg, L., and Ploeg H.-L., 2009. <a href="% post_url 2009-02-02-precision-repeatability-and-accuracy-of-optotrak-optical-motion-tracking-systems %}">Precision, repeatability and accuracy of Optotrak optical motion tracking systems.</a></li>
+ 	<li>Schmidt, J., Berg, D.R., Ploeg, L., and Ploeg H.-L., 2009. <a href="{% post_url 2009-02-02-precision-repeatability-and-accuracy-of-optotrak-optical-motion-tracking-systems %}">Precision, repeatability and accuracy of Optotrak optical motion tracking systems.</a></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="% post_url 2008-10-01-effects-of-a-zeolite-selective-catalytic-reduction-system-on-comprehensive-emiss %}">Effects of a zeolite-selective catalytic reduction system on comprehensive emissions from a heavy-duty diesel engine.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="{% post_url 2008-10-01-effects-of-a-zeolite-selective-catalytic-reduction-system-on-comprehensive-emiss %}">Effects of a zeolite-selective catalytic reduction system on comprehensive emissions from a heavy-duty diesel engine.</a></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., Swor, T.A., and Schauer, J.J., 2008. <a href="% post_url 2008-07-16-comparative-analysis-on-the-effects-of-diesel-particulate-filter-and-selective-c %}">Comparative analysis on the effects of diesel particulate filter and selective catalytic reduction systems on a wide spectrum of chemical species emissions.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., Swor, T.A., and Schauer, J.J., 2008. <a href="{% post_url 2008-07-16-comparative-analysis-on-the-effects-of-diesel-particulate-filter-and-selective-c %}">Comparative analysis on the effects of diesel particulate filter and selective catalytic reduction systems on a wide spectrum of chemical species emissions.</a></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="% post_url 2008-06-23-comparative-study-on-various-methods-for-measuring-engine-particulate-matter-emi %}">Comparative study on various methods for measuring engine particulate matter emissions.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="{% post_url 2008-06-23-comparative-study-on-various-methods-for-measuring-engine-particulate-matter-emi %}">Comparative study on various methods for measuring engine particulate matter emissions.</a></li>
 	
- 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="% post_url 2008-04-14-detailed-effects-of-a-diesel-particulate-filter-on-the-reduction-of-chemical-spe %}">Detailed effects of a diesel particulate filter on the reduction of chemical species emissions.</a></li>
+ 	<li>Liu, Z.G., Berg, D.R., and Schauer, J.J., 2008. <a href="{% post_url 2008-04-14-detailed-effects-of-a-diesel-particulate-filter-on-the-reduction-of-chemical-spe %}">Detailed effects of a diesel particulate filter on the reduction of chemical species emissions.</a></li>
 </ol>
 
 <h3>Conference Papers and Presentations</h3>
 <ol reversed="">
-	<li>Berg, D.R., Woodward, J., Cornwell, Z., and Ferguson, C., 2025. <a href="% post_url 2025-06-22-comparison-of-dynamics-motion-capture-project %}">Comparison of Dynamics Motion Capture Project Modalities.</a></li>
+	<li>Berg, D.R., Woodward, J., Cornwell, Z., and Ferguson, C., 2025. <a href="{% post_url 2025-06-22-comparison-of-dynamics-motion-capture-project %}">Comparison of Dynamics Motion Capture Project Modalities.</a></li>
 	
-	<li>Singhal, V. and Berg, D.R., 2025. <a href="% post_url 2025-06-22-leveraging-accelerometers-for-teaching-numerical-differentiation %}">Leveraging Accelerometers for Teaching Numerical Differentiation and Integration.</a></li>
+	<li>Singhal, V. and Berg, D.R., 2025. <a href="{% post_url 2025-06-22-leveraging-accelerometers-for-teaching-numerical-differentiation %}">Leveraging Accelerometers for Teaching Numerical Differentiation and Integration.</a></li>
 	
-	<li>Singhal, V. and Berg, D.R., 2025. <a href="% post_url 2025-06-22-engaging-students-in-mechanics-of-materials %}">Engaging Students in Mechanics of Materials Education: Simple Demos to Understand Ultimate Tensile Strength and Angle of Twist.</a></li>
+	<li>Singhal, V. and Berg, D.R., 2025. <a href="{% post_url 2025-06-22-engaging-students-in-mechanics-of-materials %}">Engaging Students in Mechanics of Materials Education: Simple Demos to Understand Ultimate Tensile Strength and Angle of Twist.</a></li>
 	
-	<li>Corum, J. and Berg, D.R., 2025. <a href="% post_url 2025-05-02-environmental-monitoring-as-a-public-resource %}">Environmental Monitoring as a Public Resource on the APRS Network.</a></li>
+	<li>Corum, J. and Berg, D.R., 2025. <a href="{% post_url 2025-05-02-environmental-monitoring-as-a-public-resource %}">Environmental Monitoring as a Public Resource on the APRS Network.</a></li>
 	
-	<li>Qualich, J. and Berg, D.R., 2024. <a href="% post_url 2024-04-08-programable-farmbot-water-control-and-kidney %}">Programable FarmBot water control and kidney bean growth tracking.</a></li>
+	<li>Qualich, J. and Berg, D.R., 2024. <a href="{% post_url 2024-04-08-programable-farmbot-water-control-and-kidney %}">Programable FarmBot water control and kidney bean growth tracking.</a></li>
 
-	<li>Lindquist, T., Chambers, K., Benish, N., Berg, D.R., and Turkmen, A., 2024. <a href="% post_url 2024-05-03-lora-wireless-mesh-network-for-lake %}">LoRa Wireless Mesh Network for Lake Biology Study.</a></li>
+	<li>Lindquist, T., Chambers, K., Benish, N., Berg, D.R., and Turkmen, A., 2024. <a href="{% post_url 2024-05-03-lora-wireless-mesh-network-for-lake %}">LoRa Wireless Mesh Network for Lake Biology Study.</a></li>
 
-    <li>Berg, D.R., 2023. <a href="% post_url 2023-10-04-student-experiences-with-active-learning-across %}">Student Experiences with Active Learning Across Course Delivery Modalities.</a></li>
+    <li>Berg, D.R., 2023. <a href="{% post_url 2023-10-04-student-experiences-with-active-learning-across %}">Student Experiences with Active Learning Across Course Delivery Modalities.</a></li>
 	
-	<li>Berg, D.R., 2023. <a href="% post_url 2023-10-04-small-scale-sustainable-agriculture-as-a %}">Small-scale Sustainable Agriculture as a Platform for Experiential Learning.</a></li>
+	<li>Berg, D.R., 2023. <a href="{% post_url 2023-10-04-small-scale-sustainable-agriculture-as-a %}">Small-scale Sustainable Agriculture as a Platform for Experiential Learning.</a></li>
 	
-	<li>Chundu, S., Lundquist, C., and Berg, D.R., 2023. <a href="% post_url 2023-04-12-menominet-a-prototype-network-for-real %}">MenomiNet: A prototype network for real-time public lake data.</a></li>
+	<li>Chundu, S., Lundquist, C., and Berg, D.R., 2023. <a href="{% post_url 2023-04-12-menominet-a-prototype-network-for-real %}">MenomiNet: A prototype network for real-time public lake data.</a></li>
 	
-	<li>Berg, D.R. and Schmitz, A., 2022. <a href="% post_url 2022-06-26-work-in-progress-polytechnic-perceptions-of %}">Work-in-Progress: Polytechnic perceptions of the engineering classroom experience.</a></li>
+	<li>Berg, D.R. and Schmitz, A., 2022. <a href="{% post_url 2022-06-26-work-in-progress-polytechnic-perceptions-of %}">Work-in-Progress: Polytechnic perceptions of the engineering classroom experience.</a></li>
 	
-	<li>Berg, D.R., Lee, T., and Buchanan, E., 2020. <a href="% post_url 2020-06-22-student-perceptions-of-firstyear-engineering-justice %}">Student perceptions of first-year engineering justice curriculum.</a></li>
+	<li>Berg, D.R., Lee, T., and Buchanan, E., 2020. <a href="{% post_url 2020-06-22-student-perceptions-of-firstyear-engineering-justice %}">Student perceptions of first-year engineering justice curriculum.</a></li>
 	
-	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="% post_url 2019-06-15-impacts-of-engineering-justice-curriculum-a %}">Impacts of engineering justice curriculum: A survey of student attitudes.</a></li>
+	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="{% post_url 2019-06-15-impacts-of-engineering-justice-curriculum-a %}">Impacts of engineering justice curriculum: A survey of student attitudes.</a></li>
 	
-	<li>Buchanan, E., Lee, T., and Berg, D.R., 2019. <a href="% post_url 2019-06-05-collaborations-across-campus-bringing-ethics-and %}">Collaborations across campus: Bringing ethics and social science to the engineering classroom.</a></li>
+	<li>Buchanan, E., Lee, T., and Berg, D.R., 2019. <a href="{% post_url 2019-06-05-collaborations-across-campus-bringing-ethics-and %}">Collaborations across campus: Bringing ethics and social science to the engineering classroom.</a></li>
 	
-	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="% post_url 2019-03-19-visions-of-alternative-development-in-engineers %}">Visions of alternative development in Engineers Without Borders: Possibilities and constraints.</a></li>
+	<li>Lee, T., Buchanan, E., and Berg, D.R., 2019. <a href="{% post_url 2019-03-19-visions-of-alternative-development-in-engineers %}">Visions of alternative development in Engineers Without Borders: Possibilities and constraints.</a></li>
 	
-	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. <a href="% post_url 2018-07-14-coulson-resna %}">User testing of a continuum manipulator for assistive technology.</a></li>
+	<li>Coulson, R., Kirkpatrick, M., Robinson, M., Donahue, M., and Berg, D.R., 2018. <a href="{% post_url 2018-07-14-coulson-resna %}">User testing of a continuum manipulator for assistive technology.</a></li>
 	
-	<li>Lee, T., Berg, D.R., and Buchanan, E., 2018. <a href="% post_url 2018-06-23-challenges-and-opportunities-in-international-service %}">Challenges and opportunities in international service learning.</a></li>
+	<li>Lee, T., Berg, D.R., and Buchanan, E., 2018. <a href="{% post_url 2018-06-23-challenges-and-opportunities-in-international-service %}">Challenges and opportunities in international service learning.</a></li>
 	
-	<li>Buchanan, E., Lee, T., and Berg, D.R., 2018. <a href="% post_url 2018-05-20-supporting-the-success-of-service-learning %}">Supporting the success of service learning initiatives in higher education.</a></li>
+	<li>Buchanan, E., Lee, T., and Berg, D.R., 2018. <a href="{% post_url 2018-05-20-supporting-the-success-of-service-learning %}">Supporting the success of service learning initiatives in higher education.</a></li>
 	
-	<li>Berg, D.R., 2018. <a href="% post_url 2018-05-20-opportunities-to-improve-academic-research-through %}">Opportunities to improve academic research through open research practices.</a></li>
+	<li>Berg, D.R., 2018. <a href="{% post_url 2018-05-20-opportunities-to-improve-academic-research-through %}">Opportunities to improve academic research through open research practices.</a></li>
 	
-	<li>Berg, D.R., Donahue, M., Wigdahl, M., and Collins, C.D., 2017. <a href="% post_url 2017-09-29-mechatronics-workshop-for-elementary-school-outreach %}">Mechatronics workshop for elementary school outreach.</a></li>
+	<li>Berg, D.R., Donahue, M., Wigdahl, M., and Collins, C.D., 2017. <a href="{% post_url 2017-09-29-mechatronics-workshop-for-elementary-school-outreach %}">Mechatronics workshop for elementary school outreach.</a></li>
 	
-	<li>Berg, D.R., Wigdahl, M., and Collins, C.D., 2017. <a href="% post_url 2017-06-24-assistive-technology-for-freshmen-design-and %}">Assistive technology for freshmen design and K-12 outreach.</a></li>
+	<li>Berg, D.R., Wigdahl, M., and Collins, C.D., 2017. <a href="{% post_url 2017-06-24-assistive-technology-for-freshmen-design-and %}">Assistive technology for freshmen design and K-12 outreach.</a></li>
 	
-	<li>Lee, T., Berg, D.R., and Buchanan, E.A., 2017. <a href="% post_url 2017-06-24-board-85-exploring-documenting-and-improving %}">Exploring, documenting, and improving humanitarian service learning through Engineers Without Borders USA. </a></li>
+	<li>Lee, T., Berg, D.R., and Buchanan, E.A., 2017. <a href="{% post_url 2017-06-24-board-85-exploring-documenting-and-improving %}">Exploring, documenting, and improving humanitarian service learning through Engineers Without Borders USA. </a></li>
 	
-	<li>Lacksonen, T., Springer, S., and Berg, D.R., 2017. <a href="% post_url 2017-06-24-global-engineering-projects-from-the-young %}">Global engineering projects from the Young African Leaders Initiative.</a></li>
+	<li>Lacksonen, T., Springer, S., and Berg, D.R., 2017. <a href="{% post_url 2017-06-24-global-engineering-projects-from-the-young %}">Global engineering projects from the Young African Leaders Initiative.</a></li>
 	
-	<li>Berg, D.R. and Lee, T., 2016. <a href="% post_url 2016-06-26-incorporation-of-liberal-education-into-the %}">Incorporation of liberal education into the engineering curriculum at a polytechnic.</a></li>
+	<li>Berg, D.R. and Lee, T., 2016. <a href="{% post_url 2016-06-26-incorporation-of-liberal-education-into-the %}">Incorporation of liberal education into the engineering curriculum at a polytechnic.</a></li>
 	
-	<li>Berg, D.R., 2015. <a href="% post_url 2015-06-14-use-of-a-rube-goldberg-design %}">Use of a Rube Goldberg design project for engineering dynamics.</a></li>
+	<li>Berg, D.R., 2015. <a href="{% post_url 2015-06-14-use-of-a-rube-goldberg-design %}">Use of a Rube Goldberg design project for engineering dynamics.</a></li>
 	
- 	<li>Berg, D.R., 2015. <a href="% post_url 2015-06-14-the-relationship-between-class-size-and %}>"The relationship between class size and active Twitter participation in the engineering classroom.</a></li>
+ 	<li>Berg, D.R., 2015. <a href="{% post_url 2015-06-14-the-relationship-between-class-size-and %}">The relationship between class size and active Twitter participation in the engineering classroom.</a></li>
 	
-	<li>Berg, D.R., 2014. <a href="% post_url 2014-06-15-evaluation-of-student-learning-outcomes-due %}">Evaluation of student learning outcomes due to self-guided engineering analysis of surroundings.</a></li>
+	<li>Berg, D.R., 2014. <a href="{% post_url 2014-06-15-evaluation-of-student-learning-outcomes-due %}">Evaluation of student learning outcomes due to self-guided engineering analysis of surroundings.</a></li>
 	
- 	<li>Berg, D.R., 2013. <a href="% post_url 2013-10-18-experiences-with-inquiry-based-learning-in %}">Experiences with inquiry-based learning in an introductory mechanics course.</a></li>
+ 	<li>Berg, D.R., 2013. <a href="{% post_url 2013-10-18-experiences-with-inquiry-based-learning-in %}">Experiences with inquiry-based learning in an introductory mechanics course.</a></li>
 	
- 	<li>Capaldi, F. and Berg, D.R., 2013. <a href="% post_url 2013-06-23-outcomes-of-using-an-infinitely-explorable %}">Outcomes of using an infinitely explorable online learning system.</a></li>
+ 	<li>Capaldi, F. and Berg, D.R., 2013. <a href="{% post_url 2013-06-23-outcomes-of-using-an-infinitely-explorable %}">Outcomes of using an infinitely explorable online learning system.</a></li>
 	
-	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2012. <a href="% post_url 2012-10-17-achieving-dexterous %}">Achieving dexterous manipulation for minimally invasive surgical robots through the use of hydraulics.</a></li>
+	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2012. <a href="{% post_url 2012-10-17-achieving-dexterous %}">Achieving dexterous manipulation for minimally invasive surgical robots through the use of hydraulics.</a></li>
 	
- 	<li>Berg, D.R., Harder, L.A., and Erdman, A.G., 2012. <a href="% post_url 2012-06-10-generating-interest %}">Generating interest in technology and medical devices through an interactive educational game.</a></li>
+ 	<li>Berg, D.R., Harder, L.A., and Erdman, A.G., 2012. <a href="{% post_url 2012-06-10-generating-interest %}">Generating interest in technology and medical devices through an interactive educational game.</a></li>
 	
- 	<li>Berg, D.R., Kinney, T.P., Li, P.Y., and Erdman, A.G., 2011. <a href="% post_url 2011-06-13-surgical-tool-forces %}">Determination of surgical robot tool force requirements through tissue manipulation and suture force measurement. </a></li>
+ 	<li>Berg, D.R., Kinney, T.P., Li, P.Y., and Erdman, A.G., 2011. <a href="{% post_url 2011-06-13-surgical-tool-forces %}">Determination of surgical robot tool force requirements through tissue manipulation and suture force measurement. </a></li>
 	
  	<li>Berg, D.R., Carlson, A., Durfee, W.K., Sweet, R.M., and Reihsen, T., 2011. <a href="{% post_url 2011-02-08-mmvr %}">Low-cost, take-home, beating heart simulator for health-care education.</a></li>
 	
@@ -137,17 +137,17 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
- 	<li>Dekarske, J. and Berg, D.R., 2019. <a href="% post_url 2018-10-31-powered-wheelchair-navigation %}">Path oriented powered wheelchair navigation assistance.</a></li>
+ 	<li>Dekarske, J. and Berg, D.R., 2019. <a href="{% post_url 2018-10-31-powered-wheelchair-navigation %}">Path oriented powered wheelchair navigation assistance.</a></li>
 	
-	<li>Berg, D.R., 2019. <a href="% post_url 2019-06-15-impacts-of-engineering-justice-curriculum-a %}">Impacts of Engineering: An introductory course in engineering featuring social justice.</a></li>	
+	<li>Berg, D.R., 2019. <a href="{% post_url 2019-06-15-impacts-of-engineering-justice-curriculum-a %}">Impacts of Engineering: An introductory course in engineering featuring social justice.</a></li>	
 	
-	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2018. <a href="% post_url 2018-01-23-selection-artificial-muscle-actuators %}">Selection of artificial muscle actuators for a continuum manipulator.</a></li>
+	<li>Berg, D.R., Li, P.Y., and Erdman, A.G., 2018. <a href="{% post_url 2018-01-23-selection-artificial-muscle-actuators %}">Selection of artificial muscle actuators for a continuum manipulator.</a></li>
 	
-	<li>Berg, D.R., 2017. <a href="% post_url 2017-11-10-open-in-order-to %}">Open in order to open engineering.</a></li>
+	<li>Berg, D.R., 2017. <a href="{% post_url 2017-11-10-open-in-order-to %}">Open in order to open engineering.</a></li>
 	
-	<li>Berg, D.R., 2017. <a href="% post_url 2017-02-03-open-engineering-society %}">Open research, open engineering, and the role of the university in society.</a></li>
+	<li>Berg, D.R., 2017. <a href="{% post_url 2017-02-03-open-engineering-society %}">Open research, open engineering, and the role of the university in society.</a></li>
 	
-	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. <a href="% post_url 2016-08-26-open-publishing-engineering %}">Open publishing in engineering.</a></li>
+	<li>Berg, D.R., Fleischfresser, L., and Niemeyer, K., 2016. <a href="{% post_url 2016-08-26-open-publishing-engineering %}">Open publishing in engineering.</a></li>
 	
 	<li>Berg, D.R., 2011. Tissue Mechanics as a Predictor for Saccular Aneurysm Rupture. <i>engrXiv Preprints.</i> [Paper: <i><a href="https://doi.org/10.31224/osf.io/ect3w">10.31224/osf.io/ect3w</a></i>] <span data-badge-popover="right" data-badge-type="4" data-doi="10.31224/osf.io/ect3w" data-hide-no-mentions="true" class="altmetric-embed"></span></li>	
 	
