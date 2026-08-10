@@ -189,6 +189,10 @@ areas :
 	{
 		"id": "US-WI",
 		"showAsSelected": true
+	},
+	{
+		"id": "US-WY",
+		"showAsSelected": true
 	}
 ]
 },

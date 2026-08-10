@@ -91,6 +91,10 @@ areas :
 		"showAsSelected": true
 	},
 	{
+		"id": "US-ND",
+		"showAsSelected": true
+	},
+	{
 		"id": "US-NE",
 		"showAsSelected": true
 	},
@@ -108,6 +112,10 @@ areas :
 	},
 	{
 		"id": "US-SC",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-SD",
 		"showAsSelected": true
 	},
 	{
@@ -136,6 +144,10 @@ areas :
 	},
 	{
 		"id": "US-WI",
+		"showAsSelected": true
+	},
+	{
+		"id": "US-WY",
 		"showAsSelected": true
 	}
 ]
