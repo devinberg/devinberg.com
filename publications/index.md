@@ -137,7 +137,9 @@ Below are some of the papers and other artifacts I have published.
 
 <h3>Non-Peer Reviewed Papers</h3>
 <ol reversed="">
- 	<li>Dekarske, J. and Berg, D.R., 2019. <a href="{% post_url 2018-10-31-powered-wheelchair-navigation %}">Path oriented powered wheelchair navigation assistance.</a></li>
+ 	<li>Berg, D.R., 2026. <a href="{% post_url 2026-10-01-future-oriented-asset-based %}">Future-Oriented, Asset-Based Advising to Address Disengagement Among Women in Mechanical Engineering.</a></li>	
+	
+	<li>Dekarske, J. and Berg, D.R., 2019. <a href="{% post_url 2018-10-31-powered-wheelchair-navigation %}">Path oriented powered wheelchair navigation assistance.</a></li>
 	
 	<li>Berg, D.R., 2019. <a href="{% post_url 2019-06-15-impacts-of-engineering-justice-curriculum-a %}">Impacts of Engineering: An introductory course in engineering featuring social justice.</a></li>	
 	
